@@ -35,11 +35,6 @@ fetch("ledger.csv")
 function addEntry() {
   const ledger = document.getElementById("ledgerSelect").value;
 
-  if (!ledger) {
-    alert("Please select a ledger");
-    return;
-  }
-
   const payload = {
     reference_cheque_date: document.getElementById("refDate").value,
     cheque_number: document.getElementById("chequeNo").value,
@@ -51,26 +46,16 @@ function addEntry() {
     gstin: ledgerMap[ledger].gstin
   };
 
-  fetch("https://script.google.com/macros/s/AKfycbxzclvvQhNb2hMd1PV5Cww4oE0jRy_p9Hq6_GtfJMXPodKs8KgxapCS8XlJl3PaUdHp8w/exec", {
+  fetch("/api/cheque", {
     method: "POST",
-    body: JSON.stringify(payload),
-    headers: {
-      "Content-Type": "application/json"
-    }
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload)
   })
-  .then(res => res.json())
-  .then(data => {
-    if (data.status === "success") {
-      alert("Saved to Google Sheet");
-    } else {
-      alert("Error saving data");
-    }
-  })
-  .catch(err => {
-    console.error(err);
-    alert("Network error");
-  });
+    .then(res => res.json())
+    .then(() => alert("Saved successfully"))
+    .catch(() => alert("Error saving data"));
 }
+
 
 
 function downloadCSV() {
