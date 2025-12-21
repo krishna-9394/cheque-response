@@ -48,3 +48,8 @@ function addEntry() {
     .then(() => alert("Saved successfully"))
     .catch(() => alert("Error saving data"));
 }
+
+function downloadCSV() {
+  window.location.href = "/api/cheque?download=true";
+}
+
