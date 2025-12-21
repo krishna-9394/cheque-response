@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cheque Ledger Mapping</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <h2>Cheque Entry Form</h2>
+
+    <label>Reference Cheque Date</label><br>
+    <input type="date" id="refDate"><br><br>
+
+    <label>Cheque Number</label><br>
+    <input type="text" id="chequeNo"><br><br>
+
+    <label>Amount</label><br>
+    <input type="number" id="amount"><br><br>
+
+    <label>Name of Ledger</label><br>
+    <select id="ledgerSelect">
+        <option value="">Loading ledgers...</option>
+    </select><br><br>
+
+    <button onclick="addEntry()">Add Entry</button>
+    <button onclick="downloadCSV()">Download response.csv</button>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
