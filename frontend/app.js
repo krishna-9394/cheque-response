@@ -1,17 +1,14 @@
 let ledgerMap = {};
-let responses = [];
 
 // Load ledger.csv
 fetch("ledger.csv")
-  .then(response => response.text())
+  .then(res => res.text())
   .then(text => {
     const rows = text.trim().split("\n").slice(1);
     const select = document.getElementById("ledgerSelect");
-    select.innerHTML = "";
 
     rows.forEach(row => {
       const cols = row.split(",");
-
       const ledgerName = cols[1].trim();
 
       ledgerMap[ledgerName] = {
@@ -26,10 +23,6 @@ fetch("ledger.csv")
       option.textContent = ledgerName;
       select.appendChild(option);
     });
-  })
-  .catch(err => {
-    alert("Error loading ledger.csv");
-    console.error(err);
   });
 
 function addEntry() {
@@ -54,27 +47,4 @@ function addEntry() {
     .then(res => res.json())
     .then(() => alert("Saved successfully"))
     .catch(() => alert("Error saving data"));
-}
-
-
-
-function downloadCSV() {
-  if (responses.length === 0) {
-    alert("No entries to download");
-    return;
-  }
-
-  const headers = Object.keys(responses[0]).join(",");
-  const rows = responses.map(r =>
-    Object.values(r).map(v => `"${v}"`).join(",")
-  );
-
-  const csv = [headers, ...rows].join("\n");
-  const blob = new Blob([csv], { type: "text/csv" });
-  const url = URL.createObjectURL(blob);
-
-  const a = document.createElement("a");
-  a.href = url;
-  a.download = "response.csv";
-  a.click();
 }

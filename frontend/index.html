@@ -2,13 +2,13 @@
 <html>
 
 <head>
-    <title>Cheque Ledger Mapping</title>
     <meta charset="UTF-8">
+    <title>Cheque Entry</title>
 </head>
 
 <body>
 
-    <h2>Cheque Entry Form</h2>
+    <h2>Cheque Entry</h2>
 
     <label>Reference Cheque Date</label><br>
     <input type="date" id="refDate"><br><br>
@@ -20,15 +20,11 @@
     <input type="number" id="amount"><br><br>
 
     <label>Name of Ledger</label><br>
-    <select id="ledgerSelect">
-        <option value="">Loading ledgers...</option>
-    </select><br><br>
+    <select id="ledgerSelect"></select><br><br>
 
-    <button onclick="addEntry()">Add Entry</button>
-    <button onclick="downloadCSV()">Download response.csv</button>
+    <button onclick="addEntry()">Submit</button>
 
     <script src="app.js"></script>
-
 </body>
 
 </html>
