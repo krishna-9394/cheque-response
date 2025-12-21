@@ -40,7 +40,7 @@ function addEntry() {
     return;
   }
 
-  const entry = {
+  const payload = {
     reference_cheque_date: document.getElementById("refDate").value,
     cheque_number: document.getElementById("chequeNo").value,
     amount: document.getElementById("amount").value,
@@ -51,9 +51,27 @@ function addEntry() {
     gstin: ledgerMap[ledger].gstin
   };
 
-  responses.push(entry);
-  alert("Entry added");
+  fetch("https://script.google.com/macros/s/AKfycbxzclvvQhNb2hMd1PV5Cww4oE0jRy_p9Hq6_GtfJMXPodKs8KgxapCS8XlJl3PaUdHp8w/exec", {
+    method: "POST",
+    body: JSON.stringify(payload),
+    headers: {
+      "Content-Type": "application/json"
+    }
+  })
+  .then(res => res.json())
+  .then(data => {
+    if (data.status === "success") {
+      alert("Saved to Google Sheet");
+    } else {
+      alert("Error saving data");
+    }
+  })
+  .catch(err => {
+    console.error(err);
+    alert("Network error");
+  });
 }
+
 
 function downloadCSV() {
   if (responses.length === 0) {
