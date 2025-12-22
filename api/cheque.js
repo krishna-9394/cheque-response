@@ -4,21 +4,25 @@ import path from "path";
 export default async function handler(req, res) {
   const filePath = path.join("/tmp", "response.csv");
 
-  // ---------------- DOWNLOAD CSV ----------------
-  if (req.method === "GET" && req.query.download === "true") {
+  // ---------------- GET CSV ----------------
+  if (req.method === "GET") {
     if (!fs.existsSync(filePath)) {
       return res.status(404).json({ error: "response.csv not found" });
     }
 
-    const file = fs.readFileSync(filePath);
+    const file = fs.readFileSync(filePath, 'utf8');
 
-    res.setHeader("Content-Type", "text/csv");
-    res.setHeader(
-      "Content-Disposition",
-      "attachment; filename=response.csv"
-    );
-
-    return res.status(200).send(file);
+    if (req.query.download === "true") {
+      res.setHeader("Content-Type", "text/csv");
+      res.setHeader(
+        "Content-Disposition",
+        "attachment; filename=response.csv"
+      );
+      return res.status(200).send(file);
+    } else {
+      res.setHeader("Content-Type", "text/plain");
+      return res.status(200).send(file);
+    }
   }
 
   // ---------------- SAVE ENTRY ----------------
@@ -43,7 +47,7 @@ export default async function handler(req, res) {
       if (!fs.existsSync(filePath)) {
         fs.writeFileSync(
           filePath,
-          "reference_cheque_date,cheque_number,amount,name_of_ledger,under,state_name,gst_registration_type,gstin,timestamp\n"
+          '"Reference Date","Cheque Number","Amount (Rs.)","Name of Ledger","Voucher Type","GSTIN/UIN"\n'
         );
       }
 
@@ -53,11 +57,8 @@ export default async function handler(req, res) {
           cheque_number,
           amount,
           name_of_ledger,
-          under,
-          state_name,
-          gst_registration_type,
-          gstin,
-          new Date().toISOString()
+          "Receipt",
+          gstin
         ]
           .map(v => `"${v}"`)
           .join(",") + "\n";
