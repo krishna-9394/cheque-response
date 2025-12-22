@@ -5,7 +5,7 @@ fetch("ledger.csv")
   .then(res => res.text())
   .then(text => {
     const rows = text.trim().split("\n").slice(1);
-    const select = document.getElementById("ledgerSelect");
+    const datalist = document.getElementById("ledgerList");
 
     rows.forEach(row => {
       const cols = row.split(",");
@@ -20,8 +20,7 @@ fetch("ledger.csv")
 
       const option = document.createElement("option");
       option.value = ledgerName;
-      option.textContent = ledgerName;
-      select.appendChild(option);
+      datalist.appendChild(option);
     });
 
     loadTable();
@@ -29,6 +28,11 @@ fetch("ledger.csv")
 
 function addEntry() {
   const ledger = document.getElementById("ledgerSelect").value;
+
+  if (!ledgerMap[ledger]) {
+    alert("Please select a valid ledger from the list.");
+    return;
+  }
 
   const payload = {
     reference_cheque_date: document.getElementById("refDate").value,
