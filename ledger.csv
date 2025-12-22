@@ -1,417 +1,390 @@
-Sl. No.,Name of Ledger,Under,State Name,GST Registration Type,GSTIN/UIN
-1,AAI MATA INTERIOR DECORATORS Sarjapura Road Sulikun,Sundry Debtors,Karnataka,Regular,29AHWPH3085P4Z7
-2,AAI MATHA HW (Doddakanehalli Sarjapura),Sundry Debtors,Karnataka,Regular,29AKRPL3456A1Z0
-3,AAPESHWAR PLYLAM Balgere Varthur,Sundry Debtors,Karnataka,Regular,29ANTPH1611C1Z7
-4,ADARSH ENTERPRISES Balgere Varthur,Sundry Debtors,Karnataka,Regular,29AAQFA3757J1ZV
-5,ADITYA PLYWOODS Harlur HSR Layout,Sundry Debtors,Karnataka,Regular,29ABTFA7648G1ZR
-6,"A J HARDWARE & PLYWOOD Huskur, Raysandra",Sundry Debtors,Karnataka,Regular,29DJEPR3055N1ZK
-7,"AJMER HARDWARE Darghamohalla, Doorvani",Sundry Debtors,Karnataka,Regular,29DVQPA5123Q1ZY
-8,ALTAF Employee Salary,Current Liabilities,Karnataka,Regular,
-9,AMAR GLASS & PLYWOOD (Kaggadaspura),Sundry Debtors,Karnataka,Regular,29AIXPR6604E1ZO
-10,AMAR HARDWARE (Kaggadaspura),Sundry Debtors,Karnataka,Regular,29AJVPB1392C1Z5
-11,Ambe  Maa Electricals & Hardware,Sundry Debtors,Karnataka,Regular,29HNXPM2825N1ZU
-12,AMBE MAA ELECTRICALS & LIGHTINGS Kaiknodrahalli Sar,Sundry Debtors,Karnataka,Regular,29FNVPS8789D1ZM
-13,"AMBEMAA ELE & HW (Kanekal Cross, Doddadunsandra)",Sundry Debtors,Karnataka,Regular,29DOUPR2086N1ZP
-14,Ambika Hardware & Electricals (AJGONDHALLI),Sundry Debtors,Karnataka,Regular,29DNQPG2559L1Z8
-15,AMBIKA HW & Sanitary Kaikondrahalli Kashvanalli Sar,Sundry Debtors,Karnataka,Regular,29ATSPG3321M1Z9
-16,AMITY ENTERPRISES,Sundry Debtors,Karnataka,Regular,29ATGPM3484M1ZZ
-17,Amrutha Hardware & Electricle Amrutha College Road,Sundry Debtors,Karnataka,Regular,29CLFPB4021C1ZR
-18,ARADHANA HARDWARE & ELECTRIC,Sundry Debtors,Karnataka,Regular,29CHUPS5245Q1ZZ
-19,ARD POLYPACKS PVT. LTD. SELLER,Sundry Creditors,Haryana,Regular,06AABCA4392H1ZS
-20,Arihant Sanitations Seller,Sundry Creditors,Karnataka,Regular,29BFYPC2945G1Z0
-21,"ASHAPURA HW & ElE (Kathriguppe Village, Sarjapura)",Sundry Creditors,Karnataka,Regular,29JTJPK4591M1ZN
-22,ASIAN HARDWARE,Sundry Debtors,Karnataka,Regular,29BWQPS2812F1Z5
-23,Auto Brakes Pvt Ltd SELLER,Sundry Creditors,Haryana,Regular,06AABCA6481D1ZY
-24,Balaji Electricals & Hardware (DD Cross),Sundry Debtors,Karnataka,Regular,29BNSPD6487LJZ0
-25,BALAJI ELECTRIC & HARDWARE (Doddnakundi),Sundry Debtors,Karnataka,Regular,29ARNPB1792L1ZA
-26,Balaji Enterprises(SADERMANGLA),Sundry Debtors,Karnataka,Regular,29GFHPP5132N1ZR
-27,BALAJI GLASS & HARDWARE (Amrutha College Road),Sundry Debtors,Karnataka,Regular,29AAYPU8499F1ZA
-28,BALAJI GLASS & PLYWOOD (Babusapalya),Sundry Debtors,Karnataka,Regular,29AQXPM5479L1ZJ
-29,Balaji Glass Plywood & HW CHICKTIRUPATHI DODDUNSAND,Sundry Debtors,Karnataka,Regular,29DFXPG78O9L1ZF
-30,Balaji Hardware GUNJUR,Sundry Debtors,Karnataka,Regular,29BJDPG6881L2ZL
-31,BALAJI HARDWARE & PAINTS (P. W. D Road),Sundry Debtors,Karnataka,Regular,29HDBPD3727E1ZQ
-32,BALAJI HARDWARE & SANITARY Devarbisanahalli),Sundry Debtors,Karnataka,Regular,29APPPM4014C1ZZ
-33,Balaji Hardware &Sanitary(Somyathall),Sundry Debtors,Karnataka,Regular,29AIAPM3243P1ZW
-34,BALAJI PLYWOOD & HARDWARE (BellendorGate),Sundry Debtors,Karnataka,Regular,29AHVPG7108B1Z9
-35,Balaji Traders (Hosa Road),Sundry Debtors,Karnataka,Regular,29BXXPM2907D1Z2
-36,Balaji Traders (Kadugodi),Sundry Debtors,Karnataka,Regular,29ALEPD0017D1ZU
-37,Bank of India,Bank Accounts,Karnataka,,
-38,BASAVESHWARA GLASS & PLYWOODS Mahadevpura,Sundry Debtors,Karnataka,Regular,29AYIPJ1898D1Z3
-39,Bhagyalaxmi Electricals & Hardware,Sundry Debtors,Karnataka,Regular,29GQMPS9458E1ZU
-40,Bhagyashree Electricals & Hardware Margondhalli,Sundry Debtors,Karnataka,Regular,29BKNPG1909A1ZE
-41,BHAGYASHREE GLASS & PLYWOOD,Sundry Debtors,Karnataka,Regular,29AGZPR7919Q2ZP
-42,BHAVANA HARDWARE & SANITARYWARE (ThirumalaChettyhal,Sundry Debtors,Karnataka,Regular,29BEZPP6839N1Z0
-43,BHAVANA HARDWARE (SigehalliGate Kadugodi),Sundry Debtors,Karnataka,Regular,29AMXPA1394A1Z0
-44,BHAVANI HARDWARE (Channasandra),Sundry Debtors,Karnataka,Regular,29ANNPC2585N1ZC
-45,BHAVANI HARDWARE & ELECTRICAL (Nagvarpalya),Sundry Debtors,Karnataka,Regular,29AKKPD2360A1ZM
-46,Bhavani Hardware(IMDHALLI Whitefield),Sundry Debtors,Karnataka,Regular,29AMKPC3908M2ZP
-47,Bhavani Hardware(Munekolala),Sundry Debtors,Karnataka,Regular,29ANNPC2585N1ZC
-48,Bhavani Power Tools & Electricals(DOMMSANDRA),Sundry Debtors,Karnataka,Regular,29DFZPR2812J1ZL
-49,BHAVANI TRADERS,Sundry Debtors,Karnataka,Regular,29CHJPG2260G1ZE
-50,BHAWANI ELECTICAL AND HARDWARE (Sidhapura},Sundry Debtors,Karnataka,Regular,29BIRPG6551L1ZJ
-51,BHAWANI ELECTRIC & HARDWARE (Kundhalli Gate),Sundry Debtors,Karnataka,Regular,29BIRPG6551L1ZJ
-52,BHAWANI HARDWARE & ELECTRICALS (Hoskote),Sundry Debtors,Karnataka,Regular,29AJQPP2999C1ZH
-53,Cash,Cash-in-Hand,,,
-54,CAUVERY PAINTS & HARDWARE,Sundry Debtors,Karnataka,Regular,29AEPPK0051A2ZU
-55,Century Aluminium & Steel,Sundry Creditors,Karnataka,Regular,29ABIPA8200B1Z9
-56,CGST,Duties & Taxes,,,
-57,CHANDAN HARDWARE & ELECTRICAL(VARTHUR),Sundry Debtors,Karnataka,Regular,29AYXPH4577N1Z7
-58,DHANLAKSHMI HARDWARE & PAINTS ( Electronic CIty),Sundry Debtors,Karnataka,Regular,29AQTPK3368C1ZG
-59,DHANLAXMI HARDWARE & SANITARYWARE (Doddakanehalli),Sundry Debtors,Karnataka,Regular,29AOTPL7458L1ZT
-60,DHANLAXMI HW & ELECTRIC (Kundhalli Colony ITPL),Sundry Debtors,Karnataka,Regular,29AFWPC1730N1ZZ
-61,DHARSHAN HARDWARE & ELECTRIC,Sundry Debtors,Karnataka,Regular,29DURPK5894L1ZD
-62,DILIP HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29EHPPR4309B1Z3
-63,D K PLY & HARDWARE,Sundry Debtors,Karnataka,Regular,29EFCPS2894D2Z0
-64,Durga Electricals & Hardware Nellurhalli White Fiel,Sundry Debtors,Karnataka,Regular,29AHZPJ4653Q1Z3
-65,DURGA HARDWARE,Sundry Debtors,Karnataka,Regular,29ABHPH8563C1Z6
-66,D Vikas Enterprises,Sundry Debtors,Karnataka,Regular,29CCUPS0038N2ZP
-67,Gagan Enterprises,Sundry Creditors,Karnataka,Regular,29AMSPT2870R1ZO
-68,GANESH ELECTRICALS Thippasandra,Sundry Debtors,Karnataka,Regular,29AUIPS1282L1ZZ
-69,Geekay Tarpaulin & Polymer Pvt Ltd (Seller),Sundry Creditors,Karnataka,Regular,29AAACG6516G1ZN
-70,Golden Art Aluminium (Seller),Sundry Creditors,Karnataka,Regular,29AABPH8653B1ZU
-71,GOOD LIFE ENTERPRISES,Sundry Debtors,Karnataka,Regular,29BBTPS2934N1ZL
-72,GOPAL HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29AHXPD6378C1ZU
-73,Gouramma (Driver House Advance),Current Liabilities,Karnataka,Regular,
-74,G S HARDWARE & PAINT CEMENT,Sundry Debtors,Karnataka,Regular,29AVZPS8757L1ZY
-75,GST,Duties & Taxes,,,
-76,Gyan Ceramics Tiles & Sanitary,Sundry Debtors,Karnataka,Regular,29AGHPC2682H1ZC
-77,HANUMAN HARDWARE (Channasandra),Sundry Debtors,Karnataka,Regular,29AOUPR0180G1ZG
-78,HANUMAN HARDWARE & ELECTRICAL (Avalahalli),Sundry Debtors,Karnataka,Regular,29AMKPB4095N1ZH
-79,Hanuman HW & ELEC (Nerige Post Gonighattapura),Sundry Debtors,Karnataka,Regular,29CKXPG3649A1ZU
-80,HARI OM HARDWARE & GLASS PLYWOOD,Sundry Debtors,Karnataka,Regular,29BGTPR4157H1ZM
-81,HARSHA ELECTRIC & HARDWARE,Sundry Debtors,Karnataka,Regular,29BNNPP2704F1ZU
-82,HASTHI HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29ADVPB7746G1Z0
-83,Hasvika Hardware & Electricals,Sundry Debtors,Karnataka,Regular,29EHHPM1332P1ZU
-84,Heera Hardware & Ceramics,Sundry Debtors,Karnataka,Regular,29BWSPD7158R1ZC
-85,Heera Hardware & Electricals (Dommsandra0,Sundry Debtors,Karnataka,Regular,29AARPH8586M1ZJ
-86,HEERA HARDWARE & ELECTRICALS WHITEFIELD,Sundry Debtors,Karnataka,Regular,29DQFPK3760R1Z0
-87,HEMANTH HARDWARE,Sundry Debtors,Karnataka,Regular,29CTDPK7911G1ZJ
-88,HIMALAYA HARDWARE & ELECTRICALS (Amrutha College),Sundry Debtors,Karnataka,Regular,29BFCPR6771M1ZM
-89,HIMALYA HARDWARE & ELECTRICALS (K.R. Puram),Sundry Debtors,Karnataka,Regular,29CMZPD7088J1ZZ
-90,Hindstan Glass Plywood Hardware & ELECTRICAL,Sundry Debtors,Karnataka,Regular,29BUJPP0368N1ZV
-91,Hindustan Hardware & Sanitary(Munekolala),Sundry Debtors,Karnataka,Regular,29AHUPR2787C1ZM
-92,Hindustan WireMesh Industries (Seller),Sundry Creditors,Karnataka,Regular,29AEPPD9026A1ZL
-93,HINDUSTHAN HARDWARE (Channasandra Whitefield),Sundry Debtors,Karnataka,Regular,29AIAPD0936C1ZU
-94,HINDUSTHAN HARDWARE & ELECTRIC (Muthusandra Road),Sundry Debtors,Karnataka,Regular,29APXPP8451J1ZS
-95,HINDUSTHAN HARDWARE (Kasvanahalli Amrutha College),Sundry Debtors,Karnataka,Regular,29AHUPR5070Q1Z3
-96,HKGN ENTERPRISES,Sundry Creditors,Karnataka,Regular,29AGYPA6617K1ZR
-97,IGST 18%  Input,Duties & Taxes,,,
-98,IGST Purchase 18%,Purchase Accounts,,,
-99,Income Tax,Capital Account,Karnataka,Regular,
-100,INDIRA ELECTRIC & HARDWARE,Sundry Debtors,Karnataka,Regular,29AGWPA7413R1ZJ
-101,JAGADAMBA HARDWARE & PAINTS,Sundry Debtors,Karnataka,Regular,29BLPPJ4616J1ZM
-102,JAI BHERU HARDWARE,Sundry Debtors,Karnataka,Regular,29DAEPS3990A1ZH
-103,JAI MAHADEV PLYWOOD & HARDWARE,Sundry Debtors,Karnataka,Regular,29BLPPR1661F1ZO
-104,JAI SHREE ENTERPRISES (Vignanagar),Sundry Debtors,Karnataka,Regular,29BOEPK6535D2ZW
-105,JAI SHREE HARDWARE & ELECTRICALS (Hoodi),Sundry Debtors,Karnataka,Regular,29CRHPP4121K1ZH
-106,Jai Shree Hardware & Paints,Sundry Debtors,Karnataka,Regular,29UAWPS6875R1ZD
-107,JAI SRIYADE HARWARE Kashvanahalli,Sundry Debtors,Karnataka,Regular,29AAHPH2908M1ZF
-108,JAY AMBE HARDWARE & SANITARY,Sundry Debtors,Karnataka,Regular,29BFBPN1338F1ZL
-109,JAY LAKSHMI HARDWARE & ELECTRIC,Sundry Debtors,Karnataka,Regular,29DGYPM4412B1Z6
-110,J S INNOVATION,Sundry Debtors,Karnataka,Regular,29AOOPL4869E1ZC
-111,KALU HARDWARE & PAINTS Nagvarpalya,Sundry Debtors,Karnataka,Regular,29ABAPL5492N1Z1
-112,KALU HARDWARE & SANITARY WORLD Bypanahalli Bidarhal,Sundry Debtors,Karnataka,Regular,29CPNPP3932G1ZF
-113,KAMALA ENTERPRISES(SELLER),Sundry Creditors,Karnataka,Regular,29ALGPM1510N1ZY
-114,KARNATAKA H HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,NEW SHOP
-115,Karthik Enterprises(SELLER),Sundry Creditors,Karnataka,Regular,29AVUPT1097P2Z6
-116,KARTHIK HARDWARE TinFactory,Sundry Debtors,Karnataka,Regular,29BFJPM0632M1Z4
-117,KAVERI ELECTRICALS & HARDWARE (T.C. Palya),Sundry Debtors,Karnataka,Regular,29AJTPP7758G2Z6
-118,KAVERI ELECTRIC & HARDWARE (Devsandra K.R. Puram),Sundry Debtors,Karnataka,Regular,29AZFPS0793J1ZQ
-119,Kaveri Hardware &Electrcal (Rakeshji),Sundry Debtors,Karnataka,Regular,29BSAPK8089C1ZI
-120,Kaveri Hardware & Electrical(HORMAVU),Sundry Debtors,Karnataka,Regular,29BVHPM3080P1ZV
-121,Kaveri Hardware & Electrical(Hoysala Nagar),Capital Account,Karnataka,Regular,29BSAPK8089C1ZI
-122,KAVERI HARDWARE & ELECTRICALS (DommaSandra Kadgudi),Sundry Debtors,Karnataka,Regular,29BYIPM0912J1Z9
-123,KAVERI HARDWARE & ELECTRIC (Ramurti Nagar),Sundry Debtors,Karnataka,Regular,29BVHPM3080P1ZV
-124,Kavery Electric & Hardware(Siddapura),Sundry Debtors,Karnataka,Regular,29AQFPP8770K1Z0
-125,KAVERY HW & Electricals (Gunjur),Sundry Debtors,Karnataka,Regular,29BHRPK4922J1ZR
-126,K G INTERNATIONAL,Sundry Creditors,Karnataka,Regular,29AHNPP8311K1ZQ
-127,KIRAN PLYWOOD & HARDWARE,Sundry Debtors,Karnataka,Regular,29FLVPS8137P1ZJ
-128,K K GLASS & PLYWOOD,Sundry Debtors,Karnataka,Regular,29AMOPA5924H1ZV
-129,KRISHNA CERAMICS & HARDWARE (Amrutha College Road),Sundry Debtors,Karnataka,Regular,29ALTPK4512F12ZW
-130,KRISHNA ELECTRICALS & HARDWARE (Gunjur),Sundry Debtors,Karnataka,Regular,29CL0PK2761H1ZO
-131,KRISHNA ELECTRIC & HARDWARE (White Field),Sundry Debtors,Karnataka,Regular,29AGHPM5040M1Z1
-132,Krishna Enterprises (Seller),Sundry Creditors,Karnataka,Regular,29AWIPN4050F1ZH
-133,KRISHNA GLASS & PLYWOOD (DEVARBISNAHALLI OUTER RIN),Sundry Debtors,Karnataka,Regular,29CFIPM6515D1ZD
-134,Krishna Hardware & Electricals(DILIPJI),Sundry Debtors,Karnataka,Regular,29BUDPD4407L1ZL
-135,KRISHNA HARDWARE (Muthsandra Road Varthur),Sundry Debtors,Karnataka,Regular,29BTFPK7986L1ZO
-136,KRISHNA HARDWARE & PAINTS (Immadihalli Main Road),Sundry Debtors,Karnataka,Regular,29BJSPR7122J1ZG
-137,KRISHNA HW & SANITARYWARE (Doddakanehall Devrbisna),Sundry Debtors,Karnataka,Regular,29CKWPK7793N1ZN
-138,Krishna Plywood & Hardware (Kurudusonehalli),Sundry Debtors,Karnataka,Regular,29DQJPR1307H1ZN
-139,KULDEEP HARDWARE & ELECTRICAL,Sundry Debtors,Karnataka,Regular,29AHUPC1532E1ZG
-140,K. V. Traders,Sundry Debtors,Karnataka,Regular,29AHRPJ8869N1ZZ
-141,LAKSHMI ENTERPRISES (Banaswadi Ramurti Nagar),Sundry Debtors,Karnataka,Regular,29ACPPH9589L1ZE
-142,LAKSHMI HARDWARE & SANITARY (Samethanahalli),Sundry Debtors,Karnataka,Regular,29FFOPM3385A1Z4
-143,Lakshmi Tarpaulins (Seller),Sundry Creditors,Karnataka,Regular,29CEHPK8706C1ZF
-144,LAXMI HARDWARE & ELECTRICALS (Nellurhalli),Sundry Debtors,Karnataka,Regular,29HSMPK3242M1Z2
-145,Lilavati Steel & Engineering Co.,Sundry Creditors,Gujarat,Regular,24APXPC3743E1ZX
-146,LOTUS COLOUR WORLD,Sundry Debtors,Karnataka,Regular,29ACHPL4393A1ZL
-147,Lucky Hardware & Electricals,Sundry Debtors,Karnataka,Regular,29HVPPP7704F1ZW
-148,Maa Electricals & Hardware(P W D ),Sundry Debtors,Karnataka,Regular,29BIFPM4207B1ZL
-149,MAA SHAKTI ELECTRICALS & HARDWARE,Sundry Creditors,Karnataka,Regular,29CCGPD4093J1ZC
-150,MAA SHREE YADE HARDWARE & ELECTRIC,Sundry Debtors,Karnataka,Regular,29BNDPP0598P3Z1
-151,MADHU ELECTRICALS & HARDWARE,Sundry Debtors,Karnataka,Regular,29ACIPL7903K1Z5
-152,MAHADEV ELECTRIC& HARDWARE (White Field),Sundry Debtors,Karnataka,Regular,29AAMPC3024A1ZB
-153,Mahadev Enterprises,Sundry Debtors,Karnataka,Regular,29FVKPD9824F2Z5
-154,MAHADEV GLASS & PLYWOOD (Doddakanehalli Road),Sundry Debtors,Karnataka,Regular,29DNAPS8626C1ZR
-155,MAHADEV HARDWARE & ELECTRIC (Thirumalashetyhalli),Sundry Debtors,Karnataka,Regular,29AUWPC7552P1ZK
-156,Mahadev Polytarp (Seller),Sundry Creditors,Karnataka,Regular,29ANKPA4085A1Z9
-157,MAHADEV TRADING COMPANY (NEW),Sundry Debtors,Karnataka,Regular,29BEJPR4005Q1ZU
-158,Mahadev Treding Company(Balgery Road),Sundry Debtors,Karnataka,Regular,29HXGPD5578G1ZZ
-159,Mahalakshami Haqrdware & Electricals,Sundry Debtors,Karnataka,Regular,29DBLPG4491N1ZV
-160,MAHALAKSHMI ENTERPRISES,Sundry Debtors,Karnataka,Regular,29BKNPG1371C2Z9
-161,Mahalakshmi Enterprises(Kurudusonehalli),Sundry Debtors,Karnataka,Regular,29BKNPG1371C2Z9
-162,MAHALAKSHMI GLASS PLYWOOD & HARDWARE(Kundhalli Gat),Sundry Debtors,Karnataka,Regular,29AMOPK0206A1ZI
-163,MAHALAKSHMI HARDWARE & SANITARYWARE (Kundhali Gate),Sundry Debtors,Karnataka,Regular,29CSQPD1547R1ZW
-164,MAHALAXMI ELECTRICALS & LIGHT HOUSE (Gunjur),Sundry Debtors,Karnataka,Regular,29EDRPK9797J1Z5
-165,MAHALAXMI HARDWARE & CERAMICS (Kudlu Main Road),Sundry Debtors,Karnataka,Regular,29BYLPS5254C1Z2
-166,MAHALAXMI HARDWARE & ELECTRIC (OM B.R. Banaswadi),Sundry Debtors,Karnataka,Regular,29AIUPG1147Q1ZH
-167,MAHALAXMI HARDWARE & PAINT (KUNDHALLI COLONY),Sundry Debtors,Karnataka,Regular,29BQAPD0117Q1ZV
-168,MAHALAXMI HARDWARE & PAINTS,Sundry Debtors,Karnataka,Regular,29BQAPD0117Q1ZV
-169,MAHALAXMI HARDWARE & SANITARY (HSR Layout Agra),Sundry Debtors,Karnataka,Regular,29AAOPN6766G1ZZ
-170,MAHALAXMI TRADERS,Sundry Debtors,Karnataka,Regular,29BYLPS5255D1ZZ
-171,MAHAVEER ELECTRICALS & HOME APPLIANCES,Sundry Debtors,Karnataka,Regular,29AQBPC0601Q1ZZ
-172,Mahendra Associates AUDITOR,Current Liabilities,Karnataka,Regular,
-173,MAMTA PAINTS & SANITARYWARE Opp Fonix Mall,Sundry Debtors,Karnataka,Regular,29AJMPC7548J1ZO
-174,Mamtha Hardware & Electrical (Thuberhalli),Sundry Debtors,Karnataka,Regular,29ABOPJ3631R1ZW
-175,MAMTHA HARDWARE & SANITARY (HSR Layout Parangipalya,Sundry Debtors,Karnataka,Regular,29AUHPS9526N1Z1
-176,MANJUNATHA HARDWARE,Sundry Debtors,Karnataka,Regular,29ACVPN3717A1ZF
-177,MARUTHI HARDWARE,Sundry Debtors,Karnataka,Regular,29AIWPR2561B1ZV
-178,Maruthi Metal Mish,Sundry Creditors,Karnataka,Regular,29ABZFM8545Q1ZQ
-179,MATAJI ELECTRICALS & HARDWARE (Muthsandra),Sundry Debtors,Karnataka,Regular,29AFLPC2157C1ZQ
-180,MATAJI GLASS & PLYWOOD (Varthur),Sundry Debtors,Karnataka,Regular,29AHSPC0439Q1ZP
-181,Mataji Hardware & Electricals,Sundry Debtors,Karnataka,Regular,29ADXPN1951H1ZX
-182,MATAJI HARDWARE & ELECTRIC (Avallhalli Virgonagar),Sundry Debtors,Karnataka,Regular,29ANZPT9193M1ZB
-183,MATAJI HARDWARE & SANITARY (Kadubisinahalli Panthu),Sundry Debtors,Karnataka,Regular,29AAQFM4840E1Z0
-184,Mataji Hardware & Sanitaryware (Dommsandra),Sundry Debtors,Karnataka,Regular,29GAVPB3491R1ZJ
-185,MATESHWARI HARDWARE,Sundry Debtors,Karnataka,Regular,29CNDPK0251K1ZZ
-186,MATHAJI ELECTRIC & HARDWARE (Kadugodi),Sundry Debtors,Karnataka,Regular,29APRPM6431M1Z3
-187,MATHAJI HARDWARE & ELECTRICALS (Kathriguppe),Sundry Debtors,Karnataka,Regular,29AUFPJ9814J1Z5
-188,MATHAJI HARDWARE & PAINTS (Vignanagar),Sundry Debtors,Karnataka,Regular,29AIAPM8953E1Z0
-189,"MATHAJI HW & PLY Kamanahalli, Sarjapura Hobli)",Sundry Debtors,Karnataka,Regular,29JXNPD3831D1ZC
-190,MAYA ENTERPRISES,Sundry Debtors,Karnataka,Regular,29BKPPM0112D1ZF
-191,MAYA PAINTS & HARDWARE(HULIMANGLA),Sundry Debtors,Karnataka,Regular,29AMKPC3908M2ZP
-192,Maya Paints & Hardware(White Field),Sundry Debtors,Karnataka,Regular,29AQYPN8555H1ZR
-193,MEENAKSHI ELECTRICALS &HARDWARE & LIGHT (Kalkere),Sundry Debtors,Karnataka,Regular,29CHMPP8116K1ZM
-194,MEENAKSHI HARDWARE & ELECTRICAL (PANTHUR),Sundry Debtors,Karnataka,Regular,29CKCPS0362R1ZG
-195,MEENAKSHI HARDWARE (Kundligate Sarjapura),Sundry Debtors,Karnataka,Regular,29AMNPC0299E2ZX
-196,Meenakshi Hardware(Kurtigate),Sundry Debtors,Karnataka,Regular,29AMNPC0299E2ZX
-197,MEENAKSHI HW & SANITARY (Amrutha College Kashvanaha,Sundry Debtors,Karnataka,Regular,29BZJPR1466E1Z1
-198,MEENAKSHI PLYLAM (Nellurahalli White Road),Sundry Debtors,Karnataka,Regular,29AHRPR3358L1ZD
-199,MESH KING(Seller),Sundry Debtors,Karnataka,Regular,29SHQPS5361K1ZY
-200,MITTAL TRADING CO.,Sundry Debtors,Karnataka,Regular,29AIMPM7901L1ZN
-201,M M C CERAMIC SANITARY & HARDWARE,Sundry Debtors,Karnataka,Regular,29AA0PK9258L1ZQ
-202,M M HARDWARE,Sundry Debtors,Karnataka,Regular,29BHFPS2115D1ZJ
-203,MOHAN TRADERS,Sundry Debtors,Karnataka,Regular,29AGHPM4502C1ZP
-204,Mojahir Anshari Driver Salary,Current Liabilities,Karnataka,Regular,
-205,MONIKA ELECTRICALS & HARDWARE,Sundry Debtors,Karnataka,Regular,29BGGPB0259M1Z9
-206,M RAMDEV HARDWARE & ELECTRICALS (Chinnapanahalli),Sundry Debtors,Karnataka,Regular,29BMGPM1291J1ZP
-207,MUKESH HARDWARE,Sundry Debtors,Karnataka,Regular,29AHEPP5425D1ZD
-208,Muthsandra VSSSN Shop Rent,Current Liabilities,Karnataka,Regular,
-209,Mysore Button Center (Seller),Sundry Creditors,Karnataka,Regular,29ABGPN5114P1Z6
-210,National Institute of Technology Karnataka,Current Liabilities,Karnataka,Regular,
-211,NAVARANG HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29ACVPJ5367Q1ZC
-212,NEW BHAVANI HARDWARE & SANITARYWARE (Hoodi),Sundry Debtors,Karnataka,Regular,29BCIPT8450J1ZU
-213,NEW KARNATAKA HARDWARE (Balgere Road),Sundry Debtors,Karnataka,Regular,29JTWPS4073R1ZZ
-214,NEW MAHINDRA ELECTRICALS & HARDWARE (Nellurahalli),Sundry Debtors,Karnataka,Regular,29CVLPM4055R1ZL
-215,"NEW RAJ LAXMI HW & ELE (Agrah ITPL Road, Nellurhal",Sundry Debtors,Karnataka,Regular,29CAXPB5146D1ZI
-216,OM GLASS & PLYWOOD,Sundry Debtors,Karnataka,Regular,29AKCPR2779P1Z6
-217,Om Hardware & Electricals(GRUDACHARPALYA),Sundry Debtors,Karnataka,Regular,29ANJPK3927C1ZZ
-218,PADMAVATHI HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29FCEPB5897P1ZN
-219,PAREEK GLASS PLYWOOD,Sundry Debtors,Karnataka,Regular,29CUZPP0446C1Z6
-220,PARKASH ELECTRIC & HARDWARE (Varthur Main Road),Sundry Debtors,Karnataka,Regular,29AUEPS8107N1ZX
-221,PARKASH GLASS & PLYWOOD (Balgere Road Varthur),Sundry Debtors,Karnataka,Regular,29BNSPD6565M1Z3
-222,Pavan Hardware &Electricals Halasahalli Varthur,Sundry Debtors,Karnataka,Regular,29GSSPM9770H1ZL
-223,PAVITHRA HARDWARE & ELECTRICALS (Ramgondhalli),Sundry Debtors,Karnataka,Regular,29BBHPB6534M1ZC
-224,PAVITRA HARDWARE (Bellndorgate Sarjpura ),Sundry Debtors,Karnataka,Regular,29AIHPK4911B1ZJ
-225,PAWAN ELECTRICALS & HARDWARE (Hosapalya Madiawala),Sundry Debtors,Karnataka,Regular,29DGYPG5731H1ZS
-226,PAWAN ELECTRIC & HARDWARE (Margondhalli),Sundry Debtors,Karnataka,Regular,29AKRPP1468Q1ZZ
-227,PENTAGON ASSOCIATES,Sundry Debtors,Karnataka,Regular,29AAOFP1050B1ZH
-228,Perfect Sales Corporation,Sundry Creditors,Karnataka,Regular,29AAIFP6829Q1Z7
-229,Performance Discount,Indirect Incomes,,,
-230,PLY WORLD,Sundry Debtors,Karnataka,Regular,29ADTPI9358M1ZE
-231,POOJA ENTERPRISES (Begur Main Road),Sundry Debtors,Karnataka,Regular,29BYXPN3933R1Z2
-232,POOJA HARDWARE & ELECTRICALS (Doddakanehalli),Sundry Debtors,Karnataka,Regular,29AIZPB0263F1Z5
-233,POOJA HARDWARE (Prajpalya Hoodi),Sundry Debtors,Karnataka,Regular,29AHSPB5073F1Z5
-234,POOJA MARKETING,Sundry Debtors,Karnataka,Regular,29ABCFP2786R1Z9
-235,POOJA TRADERS,Sundry Debtors,Karnataka,Regular,29BSAPD7964D1ZP
-236,POONAM HARDWARE & ELECTRIC (Hoodi Circle),Sundry Debtors,Karnataka,Regular,29AGHPM8539M1ZJ
-237,POONAM HARDWARE & SANITARY (Bellendor),Sundry Debtors,Karnataka,Regular,29AGBPL8091P1ZL
-238,POONAM PLYWOOD & HARDWARE (Electronic City),Sundry Debtors,Karnataka,Regular,29AEUPR2245A1ZB
-239,Pragathi,Sundry Debtors,Karnataka,Regular,29ASMPJ6476D1ZB
-240,PRAGATHI HARDWARE & ELECTRICALS (Balgere Road),Sundry Debtors,Karnataka,Regular,29ASMPJ6476D1ZB
-241,PRAGATHI PIPES,Sundry Debtors,Karnataka,Regular,29AKBPC8290R1ZG
-242,PRAKASH HARDWARE (Balgere Road),Sundry Debtors,Karnataka,Regular,29AAHHV4215R1ZC
-243,Prakash Hardware (Devsandra),Sundry Debtors,Karnataka,Regular,29AIPPC2197P1ZG
-244,PRAVEEN TRADERS,Sundry Debtors,Karnataka,Regular,29AGUPJ3593R1Z3
-245,PRINCE ENTERPRISES(SELLER),Sundry Creditors,Karnataka,Regular,29ATSPR6458E1ZV
-246,Profit & Loss A/c, Primary,,,
-247,Purchase,Purchase Accounts,,,
-248,Radhe Krishna Hardware & Paints,Sundry Debtors,Karnataka,Regular,29GAAPP7802M1Z5
-249,Rajalakshmi Electricals & Hardware,Sundry Debtors,Karnataka,Regular,29AOCPV7916E1ZK
-250,RAJALAXMI,Sundry Debtors,Karnataka,Regular,29AMYPB7137R1ZY
-251,RAJALAXMI GLASS PLYWOOD & HARDWARE (Kaikondrahalli),Sundry Debtors,Karnataka,Regular,29EGAPS6819H1ZW
-252,RAJ ELECTRICALS & ELECTRONICS,Sundry Debtors,Karnataka,Regular,29CPOPR7496N1ZE
-253,RAJLAXMI ELECTRICALS & HARDWARE (Begur Road),Sundry Debtors,Karnataka,Regular,29AKLPS2353M1ZG
-254,RAJLAXMI HARDWARE & ELECTRICALS (Doddunsandra),Sundry Debtors,Karnataka,Regular,29HINPK9751A1ZS
-255,RAJLAXMI HARDWARE & ELECTRICASLS (AECS Layout Kudlu,Sundry Debtors,Karnataka,Regular,29AVCPJ2072Q1Z4
-256,RAJLAXMI HARDWARE & ELECTRIC (Electronic City),Sundry Debtors,Karnataka,Regular,29CSGPP2544C1ZQ
-257,Rajlaxmi Hardware (HSR LAYOUT),Sundry Debtors,Karnataka,Regular,29AMYPB7137R1ZY
-258,RAJSREE ELECTRICALS& HARDWARE,Sundry Debtors,Karnataka,Regular,29FSFPS7261M1ZS
-259,RAMDEV ELECTRICAL & HARDWARE(WHITE FIELD),Sundry Debtors,Karnataka,Regular,29AFLPJ3535K1Z2
-260,RAMDEV ELECTRICAL & HOME WORLD,Sundry Debtors,Karnataka,Regular,29ABGFR6270C1Z3
-261,Ramdev Electricals & Hardware,Sundry Debtors,Karnataka,Regular,29LVFPS7895L1Z2
-262,RAMDEV ELECTRICALS & HOME WORLD,Capital Account,Karnataka,Regular,29ABGFR6270C1Z3
-263,RAMDEV HARDWARE & ELECTRICAL (Nellurhalli),Sundry Debtors,Karnataka,Regular,29AEMPB7040R1ZX
-264,Ramdev Hardware &Electricals(Devsandra),Sundry Debtors,Karnataka,Regular,29BGEPD3147C1ZT
-265,RAMDEV HARDWARE (Vignanagar),Sundry Debtors,Karnataka,Regular,29AKVPP2422L2ZG
-266,RAMDEV MARKETING (Sigehalli),Sundry Debtors,Karnataka,Regular,29BGEPP7063H2ZZ
-267,RAM ELECTRICALS & HARDWAREA (Kadugodi),Sundry Debtors,Karnataka,Regular,29OZYPS8369P1Z5
-268,RAMESHWARA TILES,Sundry Debtors,Karnataka,Regular,29ASQPB2402B2Z8
-269,RANGOLI HARDWARE,Sundry Debtors,Karnataka,Regular,29AFSPS7782N1ZZ
-270,Retail Party,Sundry Debtors,Karnataka,Unregistered/Consumer,
-271,RIDHI SIDHI HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29EBIPR9871P1Z8
-272,R K ELECTRICALS BRANCH (BELLNDOR),Sundry Debtors,Karnataka,Regular,29ANIPR0280Q1Z8
-273,R. Krishna Reddy,Current Liabilities,Karnataka,Regular,
-274,R.M. ENTERPRISES (Seller),Sundry Creditors,Karnataka,Regular,29CAJPM9063N1ZS
-275,Rohini Enterprises (Seller),Sundry Creditors,Karnataka,Regular,29DCBPK0318H1ZU
-276,ROHIT CERAMICS & HARDWARE,Sundry Debtors,Karnataka,Regular,29ALTPK9064G1ZD
-277,Roop Milan Glass & Plywood,Sundry Debtors,Karnataka,Regular,29FBWPA4002A1Z0
-278,Round Off,Indirect Incomes,,,
-279,R. R. Enterprises (Seller),Sundry Creditors,Karnataka,Regular,29CPQPM4556J1Z2
-280,SADGURU GLASS & PLYWOOD,Sundry Debtors,Karnataka,Regular,29ARXPG5480E1Z9
-281,SAGAR ELECTRICALS & HARDWARE (Doddakanehalli),Sundry Debtors,Karnataka,Regular,29GHTPD9033A1Z6
-282,SAGAR HARDWARE & PAINTS (Bellthur Kadugodi),Sundry Debtors,Karnataka,Regular,29AFJPA4532P1Z4
-283,Sai Dharshan Power Tools Marathalli,Sundry Debtors,Karnataka,Regular,29AFJPK6615B1ZJ
-284,SAI HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29AEVPA1102J1ZM
-285,Salecha Plywoods (Seller),Sundry Creditors,Karnataka,Regular,29AGGPJ6200M1Z9
-286,Sales,Sales Accounts,,,
-287,SANGAM HARDWARE (Annasandra Palya),Sundry Debtors,Karnataka,Regular,29AKBPC4292K1Z0
-288,SANI WORLD,Sundry Debtors,Karnataka,Regular,29ADUFS4662D1ZI
-289,SANJAY TRADERS,Sundry Debtors,Karnataka,Regular,29AEBPR7837K1ZT
-290,SANTOSH HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29ETRPM4297K1ZJ
-291,SAPTAGIRI GLASS PLYWOOD & HARDWARE,Sundry Debtors,Karnataka,Regular,29ARLPB7878H1Z6
-292,SARSVATI GLASS & PLYWOODS,Sundry Debtors,Karnataka,Regular,29ADWPD7896E1ZQ
-293,Saurashtra Corporation,Sundry Creditors,Karnataka,Regular,29AJMPM9636M1Z7
-294,S B GLASS PLYWOOD & HARDWARE (Devsandra),Sundry Debtors,Karnataka,Regular,29AMKPP9177F1ZB
-295,SGST,Duties & Taxes,,,
-296,SHAKTI TRADERS,Sundry Debtors,Karnataka,Regular,29AAVPU1197K1ZL
-297,SHANKAR HARDWARE & SANITARY,Sundry Debtors,Karnataka,Regular,29ADUPG9009N1ZP
-298,SHANTILAL GLASS PLYWOOD &HARDWARE,Sundry Debtors,Karnataka,Regular,29APZPL4431L1Z2
-299,SHARAF SANITARY[SELLER],Sundry Creditors,Karnataka,Regular,29ABCFS7317P1ZH
-300,Sharma Hardware & Plywood,Sundry Debtors,Karnataka,Regular,29DOHPS0372K1ZE
-301,SHIV SAKTHI HARDWARE ( Kadgudi),Sundry Debtors,Karnataka,Regular,29AFCPK2014D1Z1
-302,SHIV SHAKTHI ELECTRICAL & HARDWARE (Hoskote),Sundry Debtors,Karnataka,Regular,29KPJPK1228E1ZR
-303,SHIV SHAKTHI TOOLS & HARDWARE (Sarjapura Road),Sundry Debtors,Karnataka,Regular,29AVKPC2736N1Z6
-304,Shivshakti Plywood & Hardware(Balgere),Sundry Debtors,Karnataka,Regular,29BEWPD0818J1Z4
-305,SHREE BALAJI ELECTRICALS & HARDWARE(4 ROAD),Sundry Debtors,Karnataka,Regular,29BXDPG9875N1ZI
-306,SHREE BALAJI GP & HW(Devarchikkanahalli Begur Road),Sundry Debtors,Karnataka,Regular,29ACCPI8454Q1ZU
-307,Shree Balaji Plywood & Hardware(Bettadaspura),Sundry Debtors,Karnataka,Regular,29AYRPP1288J1ZJ
-308,Shree Balaji Plywood & Hardware Co (Gunjur),Sundry Debtors,Karnataka,Regular,29ANOPD0331L3ZW
-309,SHREE BASAVESHWARA GLASS PLYWOOD & HARDWARE (Hosa ),Sundry Debtors,Karnataka,Regular,29BHRPS1041L1ZR
-310,SHREE BYRAVESHWARA GLASS PLYWOOD & HARDWARE (Panthu,Sundry Debtors,Karnataka,Regular,29AOLPR8545Q2ZM
-311,Shree Dev Hardware & Electricals(WHITE FIELD),Sundry Debtors,Karnataka,Regular,29EJLPR2656R1ZZ
-312,SHREE DURGAMBA TRADERS,Sundry Debtors,Karnataka,Regular,29BJHPS7773M1Z3
-313,SHREE HARDWARE,Sundry Debtors,Karnataka,Regular,29BDIPJ2358A1ZQ
-314,Shree Krishna Hardware & Electricais(Nellurhalli),Sundry Debtors,Karnataka,Regular,29AIHPD4509N1ZZ
-315,"Shree Narayan Enterprises Margondanahalli, Bidaraha",Sundry Debtors,Karnataka,Regular,29BZGPP0495N1ZK
-316,SHREE NATH HARDWARE & SANITARYWARE,Sundry Debtors,Karnataka,Regular,29AKTPC3096K1ZI
-317,SHREENATH STEEL POINT,Sundry Debtors,Karnataka,Regular,29BFKPA6106F1ZP
-318,"Shree Prabhunath Electricals,Hardware & Powertools",Sundry Debtors,Karnataka,Regular,29CZNPK3664G1ZV
-319,Shree Rajeshwar Logistic,Current Liabilities,Maharashtra,Regular,27AHXPC2855P2ZH
-320,SHRI KAVERI ELECTRICALS & HARDWARE (Imadhalli),Sundry Debtors,Karnataka,Regular,29BBPPR9444C1Z2
-321,Shyam Aluminium (Seller),Sundry Creditors,Karnataka,Regular,29AOVPC1855L1ZB
-322,S J TRADERS (Ankareddy Complex BN Pura),Sundry Creditors,Karnataka,Regular,29AJMPS6246D1ZS
-323,S.K.  Enterprises (Seller),Sundry Creditors,Karnataka,Regular,29ADPFS5901A1Z1
-324,S L N GLASS PLYWOOD & HARDWARE (Thirumalachetty),Sundry Debtors,Karnataka,Regular,29BIXPS8084C1ZC
-325,S L V Electricals & Hardware(Varthur),Sundry Debtors,Karnataka,Regular,29AVYPV4115E1ZZ
-326,S L V Glass Plywood & Hardware(Gunjur),Sundry Debtors,Karnataka,Regular,29DBUPS6831R1Z6
-327,S L V GLASS PLYWOOD & HARDWARE (Imadhall White),Sundry Debtors,Karnataka,Regular,29AOPPN7307C1ZQ
-328,S L V GLASS PLYWOOD & HARDWARE(SAMETHANAHALLI),Sundry Debtors,Karnataka,Regular,29EUGPK4134P1Z0
-329,S L V Glass Plywood & Hardware(VARTURE),Sundry Debtors,Karnataka,Regular,29AVGPN9427R1ZH
-330,Special Discount,Indirect Incomes,,,
-331,Sree Lakshmi Venkhteshwara GP Kaggadaspura,Sundry Debtors,Karnataka,Regular,29ADCPH7317Q1Z1
-332,Sree Manjunatha Glass Plywoods & Hardware Ram. Naga,Sundry Debtors,Karnataka,Regular,29AESPN3556N1ZI
-333,SREE RAMA HARDWARE Marathalli,Sundry Debtors,Karnataka,Regular,29AEKPB5240H1ZM
-334,SREE RAMDEV HARDWARE (K R Puram),Sundry Debtors,Karnataka,Regular,29ACZPP0703A1ZL
-335,SRI ANJANI TRADERS,Sundry Debtors,Karnataka,Regular,29CKBPN9421M1ZM
-336,SRI BALAJI HARDWARE,Sundry Debtors,Karnataka,Regular,29BSZPB9157R1ZC
-337,Sri Balaji Hardware & Electric (Kithignur),Sundry Debtors,Karnataka,Regular,29BXSPR4266D1ZU
-338,SRI BALAJI SALES COORPORATION,Sundry Debtors,Karnataka,Regular,29AETPM9522N1ZG
-339,SRI BALAJI TRADING CORPORATION(THIPPSANDRA),Sundry Debtors,Karnataka,Regular,29ACGPN0963P1ZX
-340,Sri Bayraveshwara GP (Munnekola School),Sundry Debtors,Karnataka,Regular,29AKUPC7812J1ZN
-341,SRI BAYRESHVRA GLASS & PLYWOOD (B Narayanapura),Sundry Debtors,Karnataka,Regular,29AKKPR9575P1ZQ
-342,SRI BYRAVESHWARA,Sundry Debtors,Karnataka,Regular,29ADAPH1724K1ZO
-343,SRI BYRAVESHWARA GLASSPLYWOOD & HW Doddatogur Elect,Sundry Debtors,Karnataka,Regular,29DJEPM0822C1ZJ
-344,Sri Byraveshwara GP & HW Kitignur Margondhalli,Sundry Debtors,Karnataka,Regular,29DJEPM0822C1ZJ
-345,SRI BYRAVESHWARA PAINT & HW BNPURA,Sundry Debtors,Karnataka,Regular,29AQJPD4805B1Z7
-346,Sri Byraveshwara Traders (Hulimangla Niladri Layout,Sundry Debtors,Karnataka,Regular,29CBMPV3859D1ZZ
-347,SRI BYREVESHWARA GP SGR College Munnekola,Sundry Debtors,Karnataka,Regular,29ADAPH1724K1ZO
-348,SRI CHOUDESHVRI GLASS PLYWOOD & HARDWARE Immadhali,Sundry Debtors,Karnataka,Regular,29ATVPB1214B1Z2
-349,SRI CHOUDESHWARI,Sundry Debtors,Karnataka,Regular,29ATVPB1214B1Z2
-350,SRI DURGA ELECTRICAL & HARDWARE,Sundry Debtors,Karnataka,Regular,29AHFPG2021D1ZZ
-351,SRI GANESH ENTERPRISES Marathalli,Sundry Debtors,Karnataka,Regular,29FOTPS6551G1Z0
-352,SRI GANESH HARDWARE & ELECTRICALS Koraluru,Sundry Debtors,Karnataka,Regular,29BBPPA2363D1ZT
-353,SRI GANGA BHAVANI GLASS PLYWOOD & HARDWARE,Sundry Debtors,Karnataka,Regular,29AOJPN4128H1ZP
-354,SRI GURUKRUPA HARDWARE,Sundry Debtors,Karnataka,Regular,29BRZPS3409N1ZM
-355,SRI KAVERI HARDWARE (Devsandra Ayapanagar KR Puram),Sundry Debtors,Karnataka,Regular,29BAWPK2514E1ZJ
-356,SRI KRISHNA ELECTRICALS & HARDWARE(T.C. Palya Road),Sundry Debtors,Karnataka,Regular,29CABPK5019E1ZX
-357,SRI KRISHNA GLASS PLYWOOD & HARDWARE (Channasandra),Sundry Debtors,Karnataka,Regular,29ANQPR8992K1ZL
-358,Sri Krishna Glass Plywood & Hardware(Hoodi),Sundry Debtors,Karnataka,Regular,29AMNPP5252C1ZU
-359,SRI LAKSHMI GLASS & PLYWOOD HARDWARE (Thirumala),Sundry Debtors,Karnataka,Regular,29BFQPR3893L1Z9
-360,SRI LAXMI HARDWARE & PAINTS (Amrutha College),Sundry Debtors,Karnataka,Regular,29AMWPC1846Q1Z5
-361,SRI MAHADEV,Sundry Debtors,Karnataka,Regular,29BQBPD0447C1ZE
-362,Sri Mahadev Plywood and Hardware (Muthnallur),Sundry Debtors,Karnataka,Regular,29BQBPD0447C1ZE
-363,SRI MANJUNATHA GLASS PLYWOOD & HARDWARE (Begur Main,Sundry Debtors,Karnataka,Regular,29AODPM6057Q1Z5
-364,Sri Manjunatha Glass Plywood & Hardware (Kundhallig,Sundry Debtors,Karnataka,Regular,29ARZPS8365G1Z1
-365,SRI MARUTHI GLASS &PLYWOOD,Sundry Debtors,Karnataka,Regular,29BOSPP6700F1ZJ
-366,Sri Nandi Glass Plywood & Hardware (Varthur),Sundry Debtors,Karnataka,Regular,29AHYPC6887C1ZO
-367,SRINIDHI PAINTS & HARDWARE,Sundry Debtors,Karnataka,Regular,29ADAFS4240F1Z8
-368,SRI PAVITRA HARDWARE (TC Palya),Sundry Debtors,Karnataka,Regular,29ALBPB6313R1ZV
-369,SRI RAGHAVENDRA STEEL & HARDWARE,Sundry Debtors,Karnataka,Regular,29BGYPS1196Q1ZW
-370,SRI RAJLAKSHMI HARDWARE,Sundry Debtors,Karnataka,Regular,29BCVPK9750M1ZF
-371,Sri Sai Enterprises(Sonuji) Seller,Sundry Creditors,Karnataka,Regular,29AXHPS4372B2Z9
-372,Sri Sai Traders (Muthsandra),Sundry Debtors,Karnataka,Regular,29AMVPA5559R1ZW
-373,Sri Venkatachalapathi Trader SELLER,Sundry Creditors,Tamil Nadu,Regular,33FDJPK2546C1ZT
-374,SRI VENKATESHWARA GP & HW (KR Puram Devsandra),Sundry Debtors,Karnataka,Regular,29AQCPR0516N1ZJ
-375,SRI VENKATESHWARA G&P Imadhalli WhiteField Nagondhn,Sundry Debtors,Karnataka,Regular,29BMWPS3043N1Z1
-376,SRI VENKATESVRA GLASS & PLYWOOD (GM Palya),Sundry Debtors,Karnataka,Regular,29AEOPC3505Q1Z2
-377,SRI VINAYAKA GLASS PLYWOOD & HARDWARE (TC Palya),Sundry Debtors,Karnataka,Regular,29APUPPO386F1ZA
-378,SRI VINAYAKA TILES & SANITARY (Medhalli),Sundry Debtors,Karnataka,Regular,29CANPR2077R1ZJ
-379,SRI VISHNU TRADERS,Sundry Debtors,Karnataka,Regular,29BFSPC0154D1ZN
-380,SRIYADEVI ELECTRIC & HARDWARE,Sundry Debtors,Karnataka,Regular,29ABBPO1312K1ZS
-381,S R S TRADERS,Sundry Debtors,Karnataka,Regular,29ANPPD6571R1ZZ
-382,SUGANA HARDWARE & ELECTRICALS (IMMADIGHALLI),Sundry Debtors,Karnataka,Regular,29AXNPG6906F1Z8
-383,Sugana Hardware & Sanitaryware CHUTRARAMJI NAKUNDI),Sundry Debtors,Karnataka,Regular,29AGIPC4057D1ZM
-384,SUGANA HARDWARE & SANITARYWARE [YEMLUR],Sundry Debtors,Karnataka,Regular,29BZHPB5626E1ZH
-385,SUNSHINE WIRE NETTING INDUSTRIES,Sundry Creditors,Karnataka,Regular,29BRAPM7319E1ZR
-386,SUPREME INDUSTRIES(SELLER),Sundry Creditors,Maharashtra,Regular,27ACSFS7276C1ZK
-387,SURYA HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29BJTPS8250D1ZK
-388,S. V. Transport RoadLines Logistic Charges,Current Liabilities,Karnataka,Regular,29AJGPK3566J1ZS
-389,SWASTIK TRADING COMPANY,Sundry Creditors,Karnataka,Regular,29AZLPP3016H2Z5
-390,The Patel Packaging Logistic Charges,Sundry Creditors,Karnataka,Regular,29AAPFT2670J1ZJ
-391,Thirupathi Balaji & CO. (Seller),Sundry Creditors,Karnataka,Regular,29AHOPN9296N1ZZ
-392,Union Bank of India,Bank Accounts,Karnataka,,
-393,UNIVERSAL GLASS & PLYWOODS,Sundry Debtors,Karnataka,Regular,29ACGPS0789J1ZW
-394,VARLAXMI ELECTRICALS Vijanapura Ramurti Nagar,Sundry Debtors,Karnataka,Regular,29ARJPG3558M1Z7
-395,VARLAXMI HARDWARE & ELECTRIC (Morugate Jannasandra),Sundry Debtors,Karnataka,Regular,29ABSPD0319C1ZY
-396,VGS GP & HW Kadugodi,Sundry Debtors,Karnataka,Regular,29JHWPS8770M1ZM
-397,Vijaylakshmi Glass Plywood & HW (Annasandrapalya),Sundry Debtors,Karnataka,Regular,29BGEPK2514C1ZT
-398,Vijay Laxmi Hardware & Ele Muthsandra Madhuranagar,Sundry Debtors,Karnataka,Regular,29AMAPL1119M1Z0
-399,Vijay Laxmi Hardware(Hosa Road),Sundry Debtors,Karnataka,Regular,29AWNPP7564P1Z8
-400,VIJAY TARPAULIN (Seller),Sundry Creditors,Karnataka,Regular,29DTSPS9417P1Z7
-401,VIKASH HARDWARE & MARKETING,Sundry Debtors,Karnataka,Regular,29APYPL9181J1ZQ
-402,VIKRAM GLASS PLYWOOD,Sundry Debtors,Karnataka,Regular,29AJOPR8508D1ZQ
-403,VINAYAKA ELECTRIC & HARDWARE (Chamnhalli Sarjapura),Sundry Debtors,Karnataka,Regular,29AJBPH9206K1Z1
-404,Vinayaka Glass & Plywoods(MAHADEVPURA),Sundry Debtors,Karnataka,Regular,29AQCPP3244M1ZG
-405,VINAYAKA GP Sompuragate Sarjapura,Sundry Debtors,Karnataka,Regular,29CKYPM1335G1ZO
-406,VINAYAKA HARDWARE & ELECTRICALS (Devsandra KR Puram,Sundry Debtors,Karnataka,Regular,29ATNPK5490Q1ZK
-407,VINAYAKA PLYWOOD & HARDWARE (Sarjapura Road) Mothij,Sundry Debtors,Karnataka,Regular,29AJBPH9205L1Z0
-408,VINAYAKA PLYWOOD (VIGNANANAGAR),Sundry Debtors,Karnataka,Regular,29AIXPP5940P2ZX
-409,VINAYAK ELECTRIC & HARDWARE(NELLURHALLI),Sundry Debtors,Karnataka,Regular,29BJTPB6047H2ZT
-410,Vishnu Gaun Employee Salary,Current Liabilities,Karnataka,Regular,
-411,V K HARWARE,Sundry Debtors,Karnataka,Regular,29DGMPS5321H1ZY
-412,V S ENTERPRISES,Sundry Debtors,Karnataka,Regular,29AKOPK7238C1ZW
-413,V S S S N Muthsandra,Capital Account,Karnataka,Regular,
-414,V S S S N Muthsandrra,Sundry Creditors,Karnataka,Regular,
-415,Watertec (India)  Private Limited,Sundry Creditors,Karnataka,Regular,29AAACW1645G1ZB
-416,Zeenath Hardware & Sanitary [Seller],Sundry Creditors,Karnataka,Regular,29AGQPA6184P1ZJ
+GSTIN/UIN,Name of Ledger
+29AHWPH3085P4Z7,AAI MATA INTERIOR DECORATORS Sarjapura Road Sulikun
+29AKRPL3456A1Z0,AAI MATHA HW (Doddakanehalli Sarjapura)
+29ANTPH1611C1Z7,AAPESHWAR PLYLAM Balgere Varthur
+29AAQFA3757J1ZV,ADARSH ENTERPRISES Balgere Varthur
+29ABTFA7648G1ZR,ADITYA PLYWOODS Harlur HSR Layout
+29DJEPR3055N1ZK,A J HARDWARE & PLYWOOD Huskur, Raysandra
+29DVQPA5123Q1ZY,AJMER HARDWARE Darghamohalla, Doorvani
+29AIXPR6604E1ZO,AMAR GLASS & PLYWOOD (Kaggadaspura)
+29AJVPB1392C1Z5,AMAR HARDWARE (Kaggadaspura)
+29HNXPM2825N1ZU,Ambe  Maa Electricals & Hardware
+29FNVPS8789D1ZM,AMBE MAA ELECTRICALS & LIGHTINGS Kaiknodrahalli Sar
+29DOUPR2086N1ZP,AMBEMAA ELE & HW (Kanekal Cross, Doddadunsandra)
+29DNQPG2559L1Z8,Ambika Hardware & Electricals (AJGONDHALLI)
+29ATSPG3321M1Z9,AMBIKA HW & Sanitary Kaikondrahalli Kashvanalli Sar
+29ATGPM3484M1ZZ,AMITY ENTERPRISES
+29CLFPB4021C1ZR,Amrutha Hardware & Electricle Amrutha College Road
+29CHUPS5245Q1ZZ,ARADHANA HARDWARE & ELECTRIC
+06AABCA4392H1ZS,ARD POLYPACKS PVT. LTD. SELLER
+29BFYPC2945G1Z0,Arihant Sanitations Seller
+29JTJPK4591M1ZN,ASHAPURA HW & ElE (Kathriguppe Village, Sarjapura)
+29BWQPS2812F1Z5,ASIAN HARDWARE
+06AABCA6481D1ZY,Auto Brakes Pvt Ltd SELLER
+29BNSPD6487LJZ0,Balaji Electricals & Hardware (DD Cross)
+29ARNPB1792L1ZA,BALAJI ELECTRIC & HARDWARE (Doddnakundi)
+29GFHPP5132N1ZR,Balaji Enterprises(SADERMANGLA)
+29AAYPU8499F1ZA,BALAJI GLASS & HARDWARE (Amrutha College Road)
+29AQXPM5479L1ZJ,BALAJI GLASS & PLYWOOD (Babusapalya)
+29DFXPG78O9L1ZF,Balaji Glass Plywood & HW CHICKTIRUPATHI DODDUNSAND
+29BJDPG6881L2ZL,Balaji Hardware GUNJUR
+29HDBPD3727E1ZQ,BALAJI HARDWARE & PAINTS (P. W. D Road)
+29APPPM4014C1ZZ,BALAJI HARDWARE & SANITARY Devarbisanahalli)
+29AIAPM3243P1ZW,Balaji Hardware &Sanitary(Somyathall)
+29AHVPG7108B1Z9,BALAJI PLYWOOD & HARDWARE (BellendorGate)
+29BXXPM2907D1Z2,Balaji Traders (Hosa Road)
+29ALEPD0017D1ZU,Balaji Traders (Kadugodi)
+29AYIPJ1898D1Z3,BASAVESHWARA GLASS & PLYWOODS Mahadevpura
+29GQMPS9458E1ZU,Bhagyalaxmi Electricals & Hardware
+29BKNPG1909A1ZE,Bhagyashree Electricals & Hardware Margondhalli
+29AGZPR7919Q2ZP,BHAGYASHREE GLASS & PLYWOOD
+29BEZPP6839N1Z0,BHAVANA HARDWARE & SANITARYWARE (ThirumalaChettyhal
+29AMXPA1394A1Z0,BHAVANA HARDWARE (SigehalliGate Kadugodi)
+29ANNPC2585N1ZC,BHAVANI HARDWARE (Channasandra)
+29AKKPD2360A1ZM,BHAVANI HARDWARE & ELECTRICAL (Nagvarpalya)
+29AMKPC3908M2ZP,Bhavani Hardware(IMDHALLI Whitefield)
+29ANNPC2585N1ZC,Bhavani Hardware(Munekolala)
+29DFZPR2812J1ZL,Bhavani Power Tools & Electricals(DOMMSANDRA)
+29CHJPG2260G1ZE,BHAVANI TRADERS
+29BIRPG6551L1ZJ,BHAWANI ELECTICAL AND HARDWARE (Sidhapura}
+29BIRPG6551L1ZJ,BHAWANI ELECTRIC & HARDWARE (Kundhalli Gate)
+29AJQPP2999C1ZH,BHAWANI HARDWARE & ELECTRICALS (Hoskote)
+29AEPPK0051A2ZU,CAUVERY PAINTS & HARDWARE
+29ABIPA8200B1Z9,Century Aluminium & Steel
+29AYXPH4577N1Z7,CHANDAN HARDWARE & ELECTRICAL(VARTHUR)
+29AQTPK3368C1ZG,DHANLAKSHMI HARDWARE & PAINTS ( Electronic CIty)
+29AOTPL7458L1ZT,DHANLAXMI HARDWARE & SANITARYWARE (Doddakanehalli)
+29AFWPC1730N1ZZ,DHANLAXMI HW & ELECTRIC (Kundhalli Colony ITPL)
+29DURPK5894L1ZD,DHARSHAN HARDWARE & ELECTRIC
+29EHPPR4309B1Z3,DILIP HARDWARE & ELECTRICALS
+29EFCPS2894D2Z0,D K PLY & HARDWARE
+29AHZPJ4653Q1Z3,Durga Electricals & Hardware Nellurhalli White Fiel
+29ABHPH8563C1Z6,DURGA HARDWARE
+29CCUPS0038N2ZP,D Vikas Enterprises
+29AMSPT2870R1ZO,Gagan Enterprises
+29AUIPS1282L1ZZ,GANESH ELECTRICALS Thippasandra
+29AAACG6516G1ZN,Geekay Tarpaulin & Polymer Pvt Ltd (Seller)
+29AABPH8653B1ZU,Golden Art Aluminium (Seller)
+29BBTPS2934N1ZL,GOOD LIFE ENTERPRISES
+29AHXPD6378C1ZU,GOPAL HARDWARE & ELECTRICALS
+29AVZPS8757L1ZY,G S HARDWARE & PAINT CEMENT
+29AGHPC2682H1ZC,Gyan Ceramics Tiles & Sanitary
+29AOUPR0180G1ZG,HANUMAN HARDWARE (Channasandra)
+29AMKPB4095N1ZH,HANUMAN HARDWARE & ELECTRICAL (Avalahalli)
+29CKXPG3649A1ZU,Hanuman HW & ELEC (Nerige Post Gonighattapura)
+29BGTPR4157H1ZM,HARI OM HARDWARE & GLASS PLYWOOD
+29BNNPP2704F1ZU,HARSHA ELECTRIC & HARDWARE
+29ADVPB7746G1Z0,HASTHI HARDWARE & ELECTRICALS
+29EHHPM1332P1ZU,Hasvika Hardware & Electricals
+29BWSPD7158R1ZC,Heera Hardware & Ceramics
+29AARPH8586M1ZJ,Heera Hardware & Electricals (Dommsandra0
+29DQFPK3760R1Z0,HEERA HARDWARE & ELECTRICALS WHITEFIELD
+29CTDPK7911G1ZJ,HEMANTH HARDWARE
+29BFCPR6771M1ZM,HIMALAYA HARDWARE & ELECTRICALS (Amrutha College)
+29CMZPD7088J1ZZ,HIMALYA HARDWARE & ELECTRICALS (K.R. Puram)
+29BUJPP0368N1ZV,Hindstan Glass Plywood Hardware & ELECTRICAL
+29AHUPR2787C1ZM,Hindustan Hardware & Sanitary(Munekolala)
+29AEPPD9026A1ZL,Hindustan WireMesh Industries (Seller)
+29AIAPD0936C1ZU,HINDUSTHAN HARDWARE (Channasandra Whitefield)
+29APXPP8451J1ZS,HINDUSTHAN HARDWARE & ELECTRIC (Muthusandra Road)
+29AHUPR5070Q1Z3,HINDUSTHAN HARDWARE (Kasvanahalli Amrutha College)
+29AGYPA6617K1ZR,HKGN ENTERPRISES
+29AGWPA7413R1ZJ,INDIRA ELECTRIC & HARDWARE
+29BLPPJ4616J1ZM,JAGADAMBA HARDWARE & PAINTS
+29DAEPS3990A1ZH,JAI BHERU HARDWARE
+29BLPPR1661F1ZO,JAI MAHADEV PLYWOOD & HARDWARE
+29BOEPK6535D2ZW,JAI SHREE ENTERPRISES (Vignanagar)
+29CRHPP4121K1ZH,JAI SHREE HARDWARE & ELECTRICALS (Hoodi)
+29UAWPS6875R1ZD,Jai Shree Hardware & Paints
+29AAHPH2908M1ZF,JAI SRIYADE HARWARE Kashvanahalli
+29BFBPN1338F1ZL,JAY AMBE HARDWARE & SANITARY
+29DGYPM4412B1Z6,JAY LAKSHMI HARDWARE & ELECTRIC
+29AOOPL4869E1ZC,J S INNOVATION
+29ABAPL5492N1Z1,KALU HARDWARE & PAINTS Nagvarpalya
+29CPNPP3932G1ZF,KALU HARDWARE & SANITARY WORLD Bypanahalli Bidarhal
+29ALGPM1510N1ZY,KAMALA ENTERPRISES(SELLER)
+29AVUPT1097P2Z6,Karthik Enterprises(SELLER)
+29BFJPM0632M1Z4,KARTHIK HARDWARE TinFactory
+29AJTPP7758G2Z6,KAVERI ELECTRICALS & HARDWARE (T.C. Palya)
+29AZFPS0793J1ZQ,KAVERI ELECTRIC & HARDWARE (Devsandra K.R. Puram)
+29BSAPK8089C1ZI,Kaveri Hardware &Electrcal (Rakeshji)
+29BVHPM3080P1ZV,Kaveri Hardware & Electrical(HORMAVU)
+29BSAPK8089C1ZI,Kaveri Hardware & Electrical(Hoysala Nagar)
+29BYIPM0912J1Z9,KAVERI HARDWARE & ELECTRICALS (DommaSandra Kadgudi)
+29BVHPM3080P1ZV,KAVERI HARDWARE & ELECTRIC (Ramurti Nagar)
+29AQFPP8770K1Z0,Kavery Electric & Hardware(Siddapura)
+29BHRPK4922J1ZR,KAVERY HW & Electricals (Gunjur)
+29AHNPP8311K1ZQ,K G INTERNATIONAL
+29FLVPS8137P1ZJ,KIRAN PLYWOOD & HARDWARE
+29AMOPA5924H1ZV,K K GLASS & PLYWOOD
+29ALTPK4512F12ZW,KRISHNA CERAMICS & HARDWARE (Amrutha College Road)
+29CL0PK2761H1ZO,KRISHNA ELECTRICALS & HARDWARE (Gunjur)
+29AGHPM5040M1Z1,KRISHNA ELECTRIC & HARDWARE (White Field)
+29AWIPN4050F1ZH,Krishna Enterprises (Seller)
+29CFIPM6515D1ZD,KRISHNA GLASS & PLYWOOD (DEVARBISNAHALLI OUTER RIN)
+29BUDPD4407L1ZL,Krishna Hardware & Electricals(DILIPJI)
+29BTFPK7986L1ZO,KRISHNA HARDWARE (Muthsandra Road Varthur)
+29BJSPR7122J1ZG,KRISHNA HARDWARE & PAINTS (Immadihalli Main Road)
+29CKWPK7793N1ZN,KRISHNA HW & SANITARYWARE (Doddakanehall Devrbisna)
+29DQJPR1307H1ZN,Krishna Plywood & Hardware (Kurudusonehalli)
+29AHUPC1532E1ZG,KULDEEP HARDWARE & ELECTRICAL
+29AHRPJ8869N1ZZ,K. V. Traders
+29ACPPH9589L1ZE,LAKSHMI ENTERPRISES (Banaswadi Ramurti Nagar)
+29FFOPM3385A1Z4,LAKSHMI HARDWARE & SANITARY (Samethanahalli)
+29CEHPK8706C1ZF,Lakshmi Tarpaulins (Seller)
+29HSMPK3242M1Z2,LAXMI HARDWARE & ELECTRICALS (Nellurhalli)
+24APXPC3743E1ZX,Lilavati Steel & Engineering Co.
+29ACHPL4393A1ZL,LOTUS COLOUR WORLD
+29HVPPP7704F1ZW,Lucky Hardware & Electricals
+29BIFPM4207B1ZL,Maa Electricals & Hardware(P W D )
+29CCGPD4093J1ZC,MAA SHAKTI ELECTRICALS & HARDWARE
+29BNDPP0598P3Z1,MAA SHREE YADE HARDWARE & ELECTRIC
+29ACIPL7903K1Z5,MADHU ELECTRICALS & HARDWARE
+29AAMPC3024A1ZB,MAHADEV ELECTRIC& HARDWARE (White Field)
+29FVKPD9824F2Z5,Mahadev Enterprises
+29DNAPS8626C1ZR,MAHADEV GLASS & PLYWOOD (Doddakanehalli Road)
+29AUWPC7552P1ZK,MAHADEV HARDWARE & ELECTRIC (Thirumalashetyhalli)
+29ANKPA4085A1Z9,Mahadev Polytarp (Seller)
+29BEJPR4005Q1ZU,MAHADEV TRADING COMPANY (NEW)
+29HXGPD5578G1ZZ,Mahadev Treding Company(Balgery Road)
+29DBLPG4491N1ZV,Mahalakshami Haqrdware & Electricals
+29BKNPG1371C2Z9,MAHALAKSHMI ENTERPRISES
+29BKNPG1371C2Z9,Mahalakshmi Enterprises(Kurudusonehalli)
+29AMOPK0206A1ZI,MAHALAKSHMI GLASS PLYWOOD & HARDWARE(Kundhalli Gat)
+29CSQPD1547R1ZW,MAHALAKSHMI HARDWARE & SANITARYWARE (Kundhali Gate)
+29EDRPK9797J1Z5,MAHALAXMI ELECTRICALS & LIGHT HOUSE (Gunjur)
+29BYLPS5254C1Z2,MAHALAXMI HARDWARE & CERAMICS (Kudlu Main Road)
+29AIUPG1147Q1ZH,MAHALAXMI HARDWARE & ELECTRIC (OM B.R. Banaswadi)
+29BQAPD0117Q1ZV,MAHALAXMI HARDWARE & PAINT (KUNDHALLI COLONY)
+29BQAPD0117Q1ZV,MAHALAXMI HARDWARE & PAINTS
+29AAOPN6766G1ZZ,MAHALAXMI HARDWARE & SANITARY (HSR Layout Agra)
+29BYLPS5255D1ZZ,MAHALAXMI TRADERS
+29AQBPC0601Q1ZZ,MAHAVEER ELECTRICALS & HOME APPLIANCES
+29AJMPC7548J1ZO,MAMTA PAINTS & SANITARYWARE Opp Fonix Mall
+29ABOPJ3631R1ZW,Mamtha Hardware & Electrical (Thuberhalli)
+29AUHPS9526N1Z1,MAMTHA HARDWARE & SANITARY (HSR Layout Parangipalya
+29ACVPN3717A1ZF,MANJUNATHA HARDWARE
+29AIWPR2561B1ZV,MARUTHI HARDWARE
+29ABZFM8545Q1ZQ,Maruthi Metal Mish
+29AFLPC2157C1ZQ,MATAJI ELECTRICALS & HARDWARE (Muthsandra)
+29AHSPC0439Q1ZP,MATAJI GLASS & PLYWOOD (Varthur)
+29ADXPN1951H1ZX,Mataji Hardware & Electricals
+29ANZPT9193M1ZB,MATAJI HARDWARE & ELECTRIC (Avallhalli Virgonagar)
+29AAQFM4840E1Z0,MATAJI HARDWARE & SANITARY (Kadubisinahalli Panthu)
+29GAVPB3491R1ZJ,Mataji Hardware & Sanitaryware (Dommsandra)
+29CNDPK0251K1ZZ,MATESHWARI HARDWARE
+29APRPM6431M1Z3,MATHAJI ELECTRIC & HARDWARE (Kadugodi)
+29AUFPJ9814J1Z5,MATHAJI HARDWARE & ELECTRICALS (Kathriguppe)
+29AIAPM8953E1Z0,MATHAJI HARDWARE & PAINTS (Vignanagar)
+29JXNPD3831D1ZC,MATHAJI HW & PLY Kamanahalli, Sarjapura Hobli)
+29BKPPM0112D1ZF,MAYA ENTERPRISES
+29AMKPC3908M2ZP,MAYA PAINTS & HARDWARE(HULIMANGLA)
+29AQYPN8555H1ZR,Maya Paints & Hardware(White Field)
+29CHMPP8116K1ZM,MEENAKSHI ELECTRICALS &HARDWARE & LIGHT (Kalkere)
+29CKCPS0362R1ZG,MEENAKSHI HARDWARE & ELECTRICAL (PANTHUR)
+29AMNPC0299E2ZX,MEENAKSHI HARDWARE (Kundligate Sarjapura)
+29AMNPC0299E2ZX,Meenakshi Hardware(Kurtigate)
+29BZJPR1466E1Z1,MEENAKSHI HW & SANITARY (Amrutha College Kashvanaha
+29AHRPR3358L1ZD,MEENAKSHI PLYLAM (Nellurahalli White Road)
+29SHQPS5361K1ZY,MESH KING(Seller)
+29AIMPM7901L1ZN,MITTAL TRADING CO.
+29AA0PK9258L1ZQ,M M C CERAMIC SANITARY & HARDWARE
+29BHFPS2115D1ZJ,M M HARDWARE
+29AGHPM4502C1ZP,MOHAN TRADERS
+29BGGPB0259M1Z9,MONIKA ELECTRICALS & HARDWARE
+29BMGPM1291J1ZP,M RAMDEV HARDWARE & ELECTRICALS (Chinnapanahalli)
+29AHEPP5425D1ZD,MUKESH HARDWARE
+29ABGPN5114P1Z6,Mysore Button Center (Seller)
+29ACVPJ5367Q1ZC,NAVARANG HARDWARE & ELECTRICALS
+29BCIPT8450J1ZU,NEW BHAVANI HARDWARE & SANITARYWARE (Hoodi)
+29JTWPS4073R1ZZ,NEW KARNATAKA HARDWARE (Balgere Road)
+29CVLPM4055R1ZL,NEW MAHINDRA ELECTRICALS & HARDWARE (Nellurahalli)
+29CAXPB5146D1ZI,NEW RAJ LAXMI HW & ELE (Agrah ITPL Road, Nellurhal
+29AKCPR2779P1Z6,OM GLASS & PLYWOOD
+29ANJPK3927C1ZZ,Om Hardware & Electricals(GRUDACHARPALYA)
+29FCEPB5897P1ZN,PADMAVATHI HARDWARE & ELECTRICALS
+29CUZPP0446C1Z6,PAREEK GLASS PLYWOOD
+29AUEPS8107N1ZX,PARKASH ELECTRIC & HARDWARE (Varthur Main Road)
+29BNSPD6565M1Z3,PARKASH GLASS & PLYWOOD (Balgere Road Varthur)
+29GSSPM9770H1ZL,Pavan Hardware &Electricals Halasahalli Varthur
+29BBHPB6534M1ZC,PAVITHRA HARDWARE & ELECTRICALS (Ramgondhalli)
+29AIHPK4911B1ZJ,PAVITRA HARDWARE (Bellndorgate Sarjpura )
+29DGYPG5731H1ZS,PAWAN ELECTRICALS & HARDWARE (Hosapalya Madiawala)
+29AKRPP1468Q1ZZ,PAWAN ELECTRIC & HARDWARE (Margondhalli)
+29AAOFP1050B1ZH,PENTAGON ASSOCIATES
+29AAIFP6829Q1Z7,Perfect Sales Corporation
+29ADTPI9358M1ZE,PLY WORLD
+29BYXPN3933R1Z2,POOJA ENTERPRISES (Begur Main Road)
+29AIZPB0263F1Z5,POOJA HARDWARE & ELECTRICALS (Doddakanehalli)
+29AHSPB5073F1Z5,POOJA HARDWARE (Prajpalya Hoodi)
+29ABCFP2786R1Z9,POOJA MARKETING
+29BSAPD7964D1ZP,POOJA TRADERS
+29AGHPM8539M1ZJ,POONAM HARDWARE & ELECTRIC (Hoodi Circle)
+29AGBPL8091P1ZL,POONAM HARDWARE & SANITARY (Bellendor)
+29AEUPR2245A1ZB,POONAM PLYWOOD & HARDWARE (Electronic City)
+29ASMPJ6476D1ZB,Pragathi
+29ASMPJ6476D1ZB,PRAGATHI HARDWARE & ELECTRICALS (Balgere Road)
+29AKBPC8290R1ZG,PRAGATHI PIPES
+29AAHHV4215R1ZC,PRAKASH HARDWARE (Balgere Road)
+29AIPPC2197P1ZG,Prakash Hardware (Devsandra)
+29AGUPJ3593R1Z3,PRAVEEN TRADERS
+29ATSPR6458E1ZV,PRINCE ENTERPRISES(SELLER)
+29GAAPP7802M1Z5,Radhe Krishna Hardware & Paints
+29AOCPV7916E1ZK,Rajalakshmi Electricals & Hardware
+29AMYPB7137R1ZY,RAJALAXMI
+29EGAPS6819H1ZW,RAJALAXMI GLASS PLYWOOD & HARDWARE (Kaikondrahalli)
+29CPOPR7496N1ZE,RAJ ELECTRICALS & ELECTRONICS
+29AKLPS2353M1ZG,RAJLAXMI ELECTRICALS & HARDWARE (Begur Road)
+29HINPK9751A1ZS,RAJLAXMI HARDWARE & ELECTRICALS (Doddunsandra)
+29AVCPJ2072Q1Z4,RAJLAXMI HARDWARE & ELECTRICASLS (AECS Layout Kudlu
+29CSGPP2544C1ZQ,RAJLAXMI HARDWARE & ELECTRIC (Electronic City)
+29AMYPB7137R1ZY,Rajlaxmi Hardware (HSR LAYOUT)
+29FSFPS7261M1ZS,RAJSREE ELECTRICALS& HARDWARE
+29AFLPJ3535K1Z2,RAMDEV ELECTRICAL & HARDWARE(WHITE FIELD)
+29ABGFR6270C1Z3,RAMDEV ELECTRICAL & HOME WORLD
+29LVFPS7895L1Z2,Ramdev Electricals & Hardware
+29ABGFR6270C1Z3,RAMDEV ELECTRICALS & HOME WORLD
+29AEMPB7040R1ZX,RAMDEV HARDWARE & ELECTRICAL (Nellurhalli)
+29BGEPD3147C1ZT,Ramdev Hardware &Electricals(Devsandra)
+29AKVPP2422L2ZG,RAMDEV HARDWARE (Vignanagar)
+29BGEPP7063H2ZZ,RAMDEV MARKETING (Sigehalli)
+29OZYPS8369P1Z5,RAM ELECTRICALS & HARDWAREA (Kadugodi)
+29ASQPB2402B2Z8,RAMESHWARA TILES
+29AFSPS7782N1ZZ,RANGOLI HARDWARE
+29EBIPR9871P1Z8,RIDHI SIDHI HARDWARE & ELECTRICALS
+29ANIPR0280Q1Z8,R K ELECTRICALS BRANCH (BELLNDOR)
+29CAJPM9063N1ZS,R.M. ENTERPRISES (Seller)
+29DCBPK0318H1ZU,Rohini Enterprises (Seller)
+29ALTPK9064G1ZD,ROHIT CERAMICS & HARDWARE
+29FBWPA4002A1Z0,Roop Milan Glass & Plywood
+29CPQPM4556J1Z2,R. R. Enterprises (Seller)
+29ARXPG5480E1Z9,SADGURU GLASS & PLYWOOD
+29GHTPD9033A1Z6,SAGAR ELECTRICALS & HARDWARE (Doddakanehalli)
+29AFJPA4532P1Z4,SAGAR HARDWARE & PAINTS (Bellthur Kadugodi)
+29AFJPK6615B1ZJ,Sai Dharshan Power Tools Marathalli
+29AEVPA1102J1ZM,SAI HARDWARE & ELECTRICALS
+29AGGPJ6200M1Z9,Salecha Plywoods (Seller)
+29AKBPC4292K1Z0,SANGAM HARDWARE (Annasandra Palya)
+29ADUFS4662D1ZI,SANI WORLD
+29AEBPR7837K1ZT,SANJAY TRADERS
+29ETRPM4297K1ZJ,SANTOSH HARDWARE & ELECTRICALS
+29ARLPB7878H1Z6,SAPTAGIRI GLASS PLYWOOD & HARDWARE
+29ADWPD7896E1ZQ,SARSVATI GLASS & PLYWOODS
+29AJMPM9636M1Z7,Saurashtra Corporation
+29AMKPP9177F1ZB,S B GLASS PLYWOOD & HARDWARE (Devsandra)
+29AAVPU1197K1ZL,SHAKTI TRADERS
+29ADUPG9009N1ZP,SHANKAR HARDWARE & SANITARY
+29APZPL4431L1Z2,SHANTILAL GLASS PLYWOOD &HARDWARE
+29ABCFS7317P1ZH,SHARAF SANITARY[SELLER]
+29DOHPS0372K1ZE,Sharma Hardware & Plywood
+29AFCPK2014D1Z1,SHIV SAKTHI HARDWARE ( Kadgudi)
+29KPJPK1228E1ZR,SHIV SHAKTHI ELECTRICAL & HARDWARE (Hoskote)
+29AVKPC2736N1Z6,SHIV SHAKTHI TOOLS & HARDWARE (Sarjapura Road)
+29BEWPD0818J1Z4,Shivshakti Plywood & Hardware(Balgere)
+29BXDPG9875N1ZI,SHREE BALAJI ELECTRICALS & HARDWARE(4 ROAD)
+29ACCPI8454Q1ZU,SHREE BALAJI GP & HW(Devarchikkanahalli Begur Road)
+29AYRPP1288J1ZJ,Shree Balaji Plywood & Hardware(Bettadaspura)
+29ANOPD0331L3ZW,Shree Balaji Plywood & Hardware Co (Gunjur)
+29BHRPS1041L1ZR,SHREE BASAVESHWARA GLASS PLYWOOD & HARDWARE (Hosa )
+29AOLPR8545Q2ZM,SHREE BYRAVESHWARA GLASS PLYWOOD & HARDWARE (Panthu
+29EJLPR2656R1ZZ,Shree Dev Hardware & Electricals(WHITE FIELD)
+29BJHPS7773M1Z3,SHREE DURGAMBA TRADERS
+29BDIPJ2358A1ZQ,SHREE HARDWARE
+29AIHPD4509N1ZZ,Shree Krishna Hardware & Electricais(Nellurhalli)
+29BZGPP0495N1ZK,Shree Narayan Enterprises Margondanahalli, Bidaraha
+29AKTPC3096K1ZI,SHREE NATH HARDWARE & SANITARYWARE
+29BFKPA6106F1ZP,SHREENATH STEEL POINT
+29CZNPK3664G1ZV,Shree Prabhunath Electricals,Hardware & Powertools
+27AHXPC2855P2ZH,Shree Rajeshwar Logistic
+29BBPPR9444C1Z2,SHRI KAVERI ELECTRICALS & HARDWARE (Imadhalli)
+29AOVPC1855L1ZB,Shyam Aluminium (Seller)
+29AJMPS6246D1ZS,S J TRADERS (Ankareddy Complex BN Pura)
+29ADPFS5901A1Z1,S.K.  Enterprises (Seller)
+29BIXPS8084C1ZC,S L N GLASS PLYWOOD & HARDWARE (Thirumalachetty)
+29AVYPV4115E1ZZ,S L V Electricals & Hardware(Varthur)
+29DBUPS6831R1Z6,S L V Glass Plywood & Hardware(Gunjur)
+29AOPPN7307C1ZQ,S L V GLASS PLYWOOD & HARDWARE (Imadhall White)
+29EUGPK4134P1Z0,S L V GLASS PLYWOOD & HARDWARE(SAMETHANAHALLI)
+29AVGPN9427R1ZH,S L V Glass Plywood & Hardware(VARTURE)
+29ADCPH7317Q1Z1,Sree Lakshmi Venkhteshwara GP Kaggadaspura
+29AESPN3556N1ZI,Sree Manjunatha Glass Plywoods & Hardware Ram. Naga
+29AEKPB5240H1ZM,SREE RAMA HARDWARE Marathalli
+29ACZPP0703A1ZL,SREE RAMDEV HARDWARE (K R Puram)
+29CKBPN9421M1ZM,SRI ANJANI TRADERS
+29BSZPB9157R1ZC,SRI BALAJI HARDWARE
+29BXSPR4266D1ZU,Sri Balaji Hardware & Electric (Kithignur)
+29AETPM9522N1ZG,SRI BALAJI SALES COORPORATION
+29ACGPN0963P1ZX,SRI BALAJI TRADING CORPORATION(THIPPSANDRA)
+29AKUPC7812J1ZN,Sri Bayraveshwara GP (Munnekola School)
+29AKKPR9575P1ZQ,SRI BAYRESHVRA GLASS & PLYWOOD (B Narayanapura)
+29ADAPH1724K1ZO,SRI BYRAVESHWARA
+29DJEPM0822C1ZJ,SRI BYRAVESHWARA GLASSPLYWOOD & HW Doddatogur Elect
+29DJEPM0822C1ZJ,Sri Byraveshwara GP & HW Kitignur Margondhalli
+29AQJPD4805B1Z7,SRI BYRAVESHWARA PAINT & HW BNPURA
+29CBMPV3859D1ZZ,Sri Byraveshwara Traders (Hulimangla Niladri Layout
+29ADAPH1724K1ZO,SRI BYREVESHWARA GP SGR College Munnekola
+29ATVPB1214B1Z2,SRI CHOUDESHVRI GLASS PLYWOOD & HARDWARE Immadhali
+29ATVPB1214B1Z2,SRI CHOUDESHWARI
+29AHFPG2021D1ZZ,SRI DURGA ELECTRICAL & HARDWARE
+29FOTPS6551G1Z0,SRI GANESH ENTERPRISES Marathalli
+29BBPPA2363D1ZT,SRI GANESH HARDWARE & ELECTRICALS Koraluru
+29AOJPN4128H1ZP,SRI GANGA BHAVANI GLASS PLYWOOD & HARDWARE
+29BRZPS3409N1ZM,SRI GURUKRUPA HARDWARE
+29BAWPK2514E1ZJ,SRI KAVERI HARDWARE (Devsandra Ayapanagar KR Puram)
+29CABPK5019E1ZX,SRI KRISHNA ELECTRICALS & HARDWARE(T.C. Palya Road)
+29ANQPR8992K1ZL,SRI KRISHNA GLASS PLYWOOD & HARDWARE (Channasandra)
+29AMNPP5252C1ZU,Sri Krishna Glass Plywood & Hardware(Hoodi)
+29BFQPR3893L1Z9,SRI LAKSHMI GLASS & PLYWOOD HARDWARE (Thirumala)
+29AMWPC1846Q1Z5,SRI LAXMI HARDWARE & PAINTS (Amrutha College)
+29BQBPD0447C1ZE,SRI MAHADEV
+29BQBPD0447C1ZE,Sri Mahadev Plywood and Hardware (Muthnallur)
+29AODPM6057Q1Z5,SRI MANJUNATHA GLASS PLYWOOD & HARDWARE (Begur Main
+29ARZPS8365G1Z1,Sri Manjunatha Glass Plywood & Hardware (Kundhallig
+29BOSPP6700F1ZJ,SRI MARUTHI GLASS &PLYWOOD
+29AHYPC6887C1ZO,Sri Nandi Glass Plywood & Hardware (Varthur)
+29ADAFS4240F1Z8,SRINIDHI PAINTS & HARDWARE
+29ALBPB6313R1ZV,SRI PAVITRA HARDWARE (TC Palya)
+29BGYPS1196Q1ZW,SRI RAGHAVENDRA STEEL & HARDWARE
+29BCVPK9750M1ZF,SRI RAJLAKSHMI HARDWARE
+29AXHPS4372B2Z9,Sri Sai Enterprises(Sonuji) Seller
+29AMVPA5559R1ZW,Sri Sai Traders (Muthsandra)
+33FDJPK2546C1ZT,Sri Venkatachalapathi Trader SELLER
+29AQCPR0516N1ZJ,SRI VENKATESHWARA GP & HW (KR Puram Devsandra)
+29BMWPS3043N1Z1,SRI VENKATESHWARA G&P Imadhalli WhiteField Nagondhn
+29AEOPC3505Q1Z2,SRI VENKATESVRA GLASS & PLYWOOD (GM Palya)
+29APUPPO386F1ZA,SRI VINAYAKA GLASS PLYWOOD & HARDWARE (TC Palya)
+29CANPR2077R1ZJ,SRI VINAYAKA TILES & SANITARY (Medhalli)
+29BFSPC0154D1ZN,SRI VISHNU TRADERS
+29ABBPO1312K1ZS,SRIYADEVI ELECTRIC & HARDWARE
+29ANPPD6571R1ZZ,S R S TRADERS
+29AXNPG6906F1Z8,SUGANA HARDWARE & ELECTRICALS (IMMADIGHALLI)
+29AGIPC4057D1ZM,Sugana Hardware & Sanitaryware CHUTRARAMJI NAKUNDI)
+29BZHPB5626E1ZH,SUGANA HARDWARE & SANITARYWARE [YEMLUR]
+29BRAPM7319E1ZR,SUNSHINE WIRE NETTING INDUSTRIES
+27ACSFS7276C1ZK,SUPREME INDUSTRIES(SELLER)
+29BJTPS8250D1ZK,SURYA HARDWARE & ELECTRICALS
+29AJGPK3566J1ZS,S. V. Transport RoadLines Logistic Charges
+29AZLPP3016H2Z5,SWASTIK TRADING COMPANY
+29AAPFT2670J1ZJ,The Patel Packaging Logistic Charges
+29AHOPN9296N1ZZ,Thirupathi Balaji & CO. (Seller)
+29ACGPS0789J1ZW,UNIVERSAL GLASS & PLYWOODS
+29ARJPG3558M1Z7,VARLAXMI ELECTRICALS Vijanapura Ramurti Nagar
+29ABSPD0319C1ZY,VARLAXMI HARDWARE & ELECTRIC (Morugate Jannasandra)
+29JHWPS8770M1ZM,VGS GP & HW Kadugodi
+29BGEPK2514C1ZT,Vijaylakshmi Glass Plywood & HW (Annasandrapalya)
+29AMAPL1119M1Z0,Vijay Laxmi Hardware & Ele Muthsandra Madhuranagar
+29AWNPP7564P1Z8,Vijay Laxmi Hardware(Hosa Road)
+29DTSPS9417P1Z7,VIJAY TARPAULIN (Seller)
+29APYPL9181J1ZQ,VIKASH HARDWARE & MARKETING
+29AJOPR8508D1ZQ,VIKRAM GLASS PLYWOOD
+29AJBPH9206K1Z1,VINAYAKA ELECTRIC & HARDWARE (Chamnhalli Sarjapura)
+29AQCPP3244M1ZG,Vinayaka Glass & Plywoods(MAHADEVPURA)
+29CKYPM1335G1ZO,VINAYAKA GP Sompuragate Sarjapura
+29ATNPK5490Q1ZK,VINAYAKA HARDWARE & ELECTRICALS (Devsandra KR Puram
+29AJBPH9205L1Z0,VINAYAKA PLYWOOD & HARDWARE (Sarjapura Road) Mothij
+29AIXPP5940P2ZX,VINAYAKA PLYWOOD (VIGNANANAGAR)
+29BJTPB6047H2ZT,VINAYAK ELECTRIC & HARDWARE(NELLURHALLI)
+29DGMPS5321H1ZY,V K HARWARE
+29AKOPK7238C1ZW,V S ENTERPRISES
+29AAACW1645G1ZB,Watertec (India)  Private Limited
+29AGQPA6184P1ZJ,Zeenath Hardware & Sanitary [Seller]

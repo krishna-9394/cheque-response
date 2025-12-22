@@ -8,14 +8,16 @@ fetch("ledger.csv")
     const datalist = document.getElementById("ledgerList");
 
     rows.forEach(row => {
-      const cols = row.split(",");
-      const ledgerName = cols[1].trim();
+      const commaIndex = row.indexOf(',');
+      if (commaIndex === -1) return; // skip invalid rows
+      const gstin = row.substring(0, commaIndex).trim();
+      const ledgerName = row.substring(commaIndex + 1).trim();
 
       ledgerMap[ledgerName] = {
-        under: cols[2],
-        state: cols[3],
-        gstType: cols[4],
-        gstin: cols[5]
+        gstin: gstin,
+        under: '',
+        state: '',
+        gstType: ''
       };
 
       const option = document.createElement("option");
@@ -75,7 +77,28 @@ function loadTable() {
       if (csv === '') return;
       const rows = csv.trim().split('\n');
       const headers = rows[0].split(',').map(h => h.replace(/"/g, ''));
-      const data = rows.slice(1).map(row => row.split(',').map(cell => cell.replace(/"/g, '')));
+      const data = rows.slice(1).map(row => {
+        // Find the 5th comma to split properly since Name of Ledger can contain commas
+        let commaCount = 0;
+        let splitIndex = -1;
+        for (let i = 0; i < row.length; i++) {
+          if (row[i] === ',') {
+            commaCount++;
+            if (commaCount === 5) {
+              splitIndex = i;
+              break;
+            }
+          }
+        }
+        if (splitIndex === -1) return []; // invalid row
+        const firstFiveFields = row.substring(0, splitIndex);
+        const ledgerName = row.substring(splitIndex + 1);
+        // Parse the first five fields
+        const fields = firstFiveFields.split(',').map(cell => cell.replace(/"/g, ''));
+        // Add the ledger name (remove quotes if present)
+        fields.push(ledgerName.replace(/"/g, ''));
+        return fields;
+      }).filter(row => row.length > 0); // remove invalid rows
 
       let tableHtml = '<table border="1"><thead><tr>';
       headers.forEach(h => tableHtml += `<th>${h}</th>`);

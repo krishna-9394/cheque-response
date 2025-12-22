@@ -47,7 +47,7 @@ export default async function handler(req, res) {
       if (!fs.existsSync(filePath)) {
         fs.writeFileSync(
           filePath,
-          '"Reference Date","Cheque Number","Amount (Rs.)","Name of Ledger","Voucher Type","GSTIN/UIN"\n'
+          '"Reference Date","Cheque Number","Amount (Rs.)","Voucher Type","GSTIN/UIN","Name of Ledger"\n'
         );
       }
 
@@ -56,9 +56,9 @@ export default async function handler(req, res) {
           reference_cheque_date || "",
           cheque_number,
           amount,
-          name_of_ledger,
           "Receipt",
-          gstin
+          gstin,
+          name_of_ledger
         ]
           .map(v => `"${v}"`)
           .join(",") + "\n";
