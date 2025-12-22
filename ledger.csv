@@ -4,14 +4,14 @@ Sl. No.,Name of Ledger,Under,State Name,GST Registration Type,GSTIN/UIN
 3,AAPESHWAR PLYLAM Balgere Varthur,Sundry Debtors,Karnataka,Regular,29ANTPH1611C1Z7
 4,ADARSH ENTERPRISES Balgere Varthur,Sundry Debtors,Karnataka,Regular,29AAQFA3757J1ZV
 5,ADITYA PLYWOODS Harlur HSR Layout,Sundry Debtors,Karnataka,Regular,29ABTFA7648G1ZR
-6,A J HARDWARE & PLYWOOD Huskur, Raysandra,Sundry Debtors,Karnataka,Regular,29DJEPR3055N1ZK
-7,AJMER HARDWARE Darghamohalla, Doorvani,Sundry Debtors,Karnataka,Regular,29DVQPA5123Q1ZY
+6,"A J HARDWARE & PLYWOOD Huskur, Raysandra",Sundry Debtors,Karnataka,Regular,29DJEPR3055N1ZK
+7,"AJMER HARDWARE Darghamohalla, Doorvani",Sundry Debtors,Karnataka,Regular,29DVQPA5123Q1ZY
 8,ALTAF Employee Salary,Current Liabilities,Karnataka,Regular,
 9,AMAR GLASS & PLYWOOD (Kaggadaspura),Sundry Debtors,Karnataka,Regular,29AIXPR6604E1ZO
 10,AMAR HARDWARE (Kaggadaspura),Sundry Debtors,Karnataka,Regular,29AJVPB1392C1Z5
 11,Ambe  Maa Electricals & Hardware,Sundry Debtors,Karnataka,Regular,29HNXPM2825N1ZU
 12,AMBE MAA ELECTRICALS & LIGHTINGS Kaiknodrahalli Sar,Sundry Debtors,Karnataka,Regular,29FNVPS8789D1ZM
-13,AMBEMAA ELE & HW (Kanekal Cross, Doddadunsandra),Sundry Debtors,Karnataka,Regular,29DOUPR2086N1ZP
+13,"AMBEMAA ELE & HW (Kanekal Cross, Doddadunsandra)",Sundry Debtors,Karnataka,Regular,29DOUPR2086N1ZP
 14,Ambika Hardware & Electricals (AJGONDHALLI),Sundry Debtors,Karnataka,Regular,29DNQPG2559L1Z8
 15,AMBIKA HW & Sanitary Kaikondrahalli Kashvanalli Sar,Sundry Debtors,Karnataka,Regular,29ATSPG3321M1Z9
 16,AMITY ENTERPRISES,Sundry Debtors,Karnataka,Regular,29ATGPM3484M1ZZ
@@ -19,7 +19,7 @@ Sl. No.,Name of Ledger,Under,State Name,GST Registration Type,GSTIN/UIN
 18,ARADHANA HARDWARE & ELECTRIC,Sundry Debtors,Karnataka,Regular,29CHUPS5245Q1ZZ
 19,ARD POLYPACKS PVT. LTD. SELLER,Sundry Creditors,Haryana,Regular,06AABCA4392H1ZS
 20,Arihant Sanitations Seller,Sundry Creditors,Karnataka,Regular,29BFYPC2945G1Z0
-21,ASHAPURA HW & ElE (Kathriguppe Village, Sarjapura),Sundry Creditors,Karnataka,Regular,29JTJPK4591M1ZN
+21,"ASHAPURA HW & ElE (Kathriguppe Village, Sarjapura)",Sundry Creditors,Karnataka,Regular,29JTJPK4591M1ZN
 22,ASIAN HARDWARE,Sundry Debtors,Karnataka,Regular,29BWQPS2812F1Z5
 23,Auto Brakes Pvt Ltd SELLER,Sundry Creditors,Haryana,Regular,06AABCA6481D1ZY
 24,Balaji Electricals & Hardware (DD Cross),Sundry Debtors,Karnataka,Regular,29BNSPD6487LJZ0
@@ -187,7 +187,7 @@ Sl. No.,Name of Ledger,Under,State Name,GST Registration Type,GSTIN/UIN
 186,MATHAJI ELECTRIC & HARDWARE (Kadugodi),Sundry Debtors,Karnataka,Regular,29APRPM6431M1Z3
 187,MATHAJI HARDWARE & ELECTRICALS (Kathriguppe),Sundry Debtors,Karnataka,Regular,29AUFPJ9814J1Z5
 188,MATHAJI HARDWARE & PAINTS (Vignanagar),Sundry Debtors,Karnataka,Regular,29AIAPM8953E1Z0
-189,MATHAJI HW & PLY Kamanahalli, Sarjapura Hobli),Sundry Debtors,Karnataka,Regular,29JXNPD3831D1ZC
+189,"MATHAJI HW & PLY Kamanahalli, Sarjapura Hobli)",Sundry Debtors,Karnataka,Regular,29JXNPD3831D1ZC
 190,MAYA ENTERPRISES,Sundry Debtors,Karnataka,Regular,29BKPPM0112D1ZF
 191,MAYA PAINTS & HARDWARE(HULIMANGLA),Sundry Debtors,Karnataka,Regular,29AMKPC3908M2ZP
 192,Maya Paints & Hardware(White Field),Sundry Debtors,Karnataka,Regular,29AQYPN8555H1ZR
@@ -213,7 +213,7 @@ Sl. No.,Name of Ledger,Under,State Name,GST Registration Type,GSTIN/UIN
 212,NEW BHAVANI HARDWARE & SANITARYWARE (Hoodi),Sundry Debtors,Karnataka,Regular,29BCIPT8450J1ZU
 213,NEW KARNATAKA HARDWARE (Balgere Road),Sundry Debtors,Karnataka,Regular,29JTWPS4073R1ZZ
 214,NEW MAHINDRA ELECTRICALS & HARDWARE (Nellurahalli),Sundry Debtors,Karnataka,Regular,29CVLPM4055R1ZL
-215,NEW RAJ LAXMI HW & ELE (Agrah ITPL Road, Nellurhal,Sundry Debtors,Karnataka,Regular,29CAXPB5146D1ZI
+215,"NEW RAJ LAXMI HW & ELE (Agrah ITPL Road, Nellurhal",Sundry Debtors,Karnataka,Regular,29CAXPB5146D1ZI
 216,OM GLASS & PLYWOOD,Sundry Debtors,Karnataka,Regular,29AKCPR2779P1Z6
 217,Om Hardware & Electricals(GRUDACHARPALYA),Sundry Debtors,Karnataka,Regular,29ANJPK3927C1ZZ
 218,PADMAVATHI HARDWARE & ELECTRICALS,Sundry Debtors,Karnataka,Regular,29FCEPB5897P1ZN
@@ -313,10 +313,10 @@ Sl. No.,Name of Ledger,Under,State Name,GST Registration Type,GSTIN/UIN
 312,SHREE DURGAMBA TRADERS,Sundry Debtors,Karnataka,Regular,29BJHPS7773M1Z3
 313,SHREE HARDWARE,Sundry Debtors,Karnataka,Regular,29BDIPJ2358A1ZQ
 314,Shree Krishna Hardware & Electricais(Nellurhalli),Sundry Debtors,Karnataka,Regular,29AIHPD4509N1ZZ
-315,Shree Narayan Enterprises Margondanahalli, Bidaraha,Sundry Debtors,Karnataka,Regular,29BZGPP0495N1ZK
+315,"Shree Narayan Enterprises Margondanahalli, Bidaraha",Sundry Debtors,Karnataka,Regular,29BZGPP0495N1ZK
 316,SHREE NATH HARDWARE & SANITARYWARE,Sundry Debtors,Karnataka,Regular,29AKTPC3096K1ZI
 317,SHREENATH STEEL POINT,Sundry Debtors,Karnataka,Regular,29BFKPA6106F1ZP
-318,Shree Prabhunath Electricals,Hardware & Powertools,Sundry Debtors,Karnataka,Regular,29CZNPK3664G1ZV
+318,"Shree Prabhunath Electricals,Hardware & Powertools",Sundry Debtors,Karnataka,Regular,29CZNPK3664G1ZV
 319,Shree Rajeshwar Logistic,Current Liabilities,Maharashtra,Regular,27AHXPC2855P2ZH
 320,SHRI KAVERI ELECTRICALS & HARDWARE (Imadhalli),Sundry Debtors,Karnataka,Regular,29BBPPR9444C1Z2
 321,Shyam Aluminium (Seller),Sundry Creditors,Karnataka,Regular,29AOVPC1855L1ZB
