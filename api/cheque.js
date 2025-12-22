@@ -1,16 +1,37 @@
-import fs from "fs";
-import path from "path";
+import clientPromise from "../lib/mongo.js";
 
 export default async function handler(req, res) {
-  const filePath = path.join("/tmp", "response.csv");
+  const client = await clientPromise;
+  const db = client.db("billing");
+  const collection = db.collection("cheque_responses");
 
   // ---------------- GET CSV ----------------
   if (req.method === "GET") {
-    if (!fs.existsSync(filePath)) {
-      return res.status(404).json({ error: "response.csv not found" });
+    const records = await collection.find({}).sort({ _id: 1 }).toArray();
+
+    if (records.length === 0) {
+      return res.status(404).json({ error: "No data available" });
     }
 
-    const file = fs.readFileSync(filePath, 'utf8');
+    const header =
+      '"Reference Date","Cheque Number","Amount (Rs.)","Voucher Type","GSTIN/UIN","Name of Ledger"\n';
+
+    const rows = records
+      .map(r =>
+        [
+          r.reference_cheque_date || "",
+          r.cheque_number,
+          r.amount,
+          r.voucher_type,
+          r.gstin || "",
+          r.name_of_ledger
+        ]
+          .map(v => `"${v}"`)
+          .join(",")
+      )
+      .join("\n");
+
+    const csv = header + rows + "\n";
 
     if (req.query.download === "true") {
       res.setHeader("Content-Type", "text/csv");
@@ -18,61 +39,39 @@ export default async function handler(req, res) {
         "Content-Disposition",
         "attachment; filename=response.csv"
       );
-      return res.status(200).send(file);
-    } else {
-      res.setHeader("Content-Type", "text/plain");
-      return res.status(200).send(file);
+      return res.status(200).send(csv);
     }
+
+    res.setHeader("Content-Type", "text/plain");
+    return res.status(200).send(csv);
   }
 
   // ---------------- SAVE ENTRY ----------------
   if (req.method === "POST") {
-    try {
-      const {
-        reference_cheque_date,
-        cheque_number,
-        amount,
-        name_of_ledger,
-        under,
-        state_name,
-        gst_registration_type,
-        gstin
-      } = req.body;
+    const {
+      reference_cheque_date,
+      cheque_number,
+      amount,
+      name_of_ledger,
+      gstin
+    } = req.body;
 
-      if (!cheque_number || !amount || !name_of_ledger) {
-        return res.status(400).json({ error: "Missing required fields" });
-      }
-
-      // Create CSV with headers if it does not exist
-      if (!fs.existsSync(filePath)) {
-        fs.writeFileSync(
-          filePath,
-          '"Reference Date","Cheque Number","Amount (Rs.)","Voucher Type","GSTIN/UIN","Name of Ledger"\n'
-        );
-      }
-
-      const row =
-        [
-          reference_cheque_date || "",
-          cheque_number,
-          amount,
-          "Receipt",
-          gstin,
-          name_of_ledger
-        ]
-          .map(v => `"${v}"`)
-          .join(",") + "\n";
-
-      fs.appendFileSync(filePath, row);
-
-      return res.status(200).json({ status: "success" });
-
-    } catch (err) {
-      console.error(err);
-      return res.status(500).json({ error: "Server error" });
+    if (!cheque_number || !amount || !name_of_ledger) {
+      return res.status(400).json({ error: "Missing required fields" });
     }
+
+    await collection.insertOne({
+      reference_cheque_date,
+      cheque_number,
+      amount,
+      voucher_type: "Receipt",
+      gstin,
+      name_of_ledger,
+      created_at: new Date()
+    });
+
+    return res.status(200).json({ status: "success" });
   }
 
-  // ---------------- METHOD NOT ALLOWED ----------------
   return res.status(405).json({ error: "Method Not Allowed" });
 }
