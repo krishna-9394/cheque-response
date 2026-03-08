@@ -2,9 +2,6 @@
   "name": "cheque-backend",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "start": "node app.js"
-  },
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",

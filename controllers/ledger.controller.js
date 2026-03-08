@@ -1,9 +1,9 @@
-import { ObjectId } from "mongodb";
-import { connectDB } from "../lib/mongo.js";
+import { clientPromise } from "../lib/mongo.js";
 
 export const createLedger = async (req, res) => {
   try {
-    const db = await connectDB();
+    const client = await clientPromise();
+    const db = client.db("billing");
     const { name, gstin, under, state, gst_registration_type } = req.body;
 
     if (!name) {
@@ -27,7 +27,8 @@ export const createLedger = async (req, res) => {
 
 export const getLedgers = async (req, res) => {
   try {
-    const db = await connectDB();
+    const client = await clientPromise();
+    const db = client.db("billing");
     const ledgers = await db.collection("ledgers")
       .find({})
       .sort({ name: 1 })

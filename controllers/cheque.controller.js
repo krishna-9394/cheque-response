@@ -1,9 +1,10 @@
 import { ObjectId } from "mongodb";
-import { connectDB } from "../lib/mongo.js";
+import { clientPromise } from "../lib/mongo.js";
 
 export const createCheque = async (req, res) => {
   try {
-    const db = await connectDB();
+    const client = await clientPromise();
+    const db = client.db("billing");
 
     const {
       reference_cheque_date,
@@ -46,7 +47,8 @@ export const createCheque = async (req, res) => {
 
 export const getCheques = async (req, res) => {
   try {
-    const db = await connectDB();
+    const client = await clientPromise();
+    const db = client.db("billing");
 
     const records = await db.collection("cheque_responses")
       .aggregate([
