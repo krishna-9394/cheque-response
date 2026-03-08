@@ -1,5 +1,5 @@
 import { ObjectId } from "mongodb";
-import { clientPromise } from "../lib/mongo.js";
+import clientPromise from "../lib/mongo.js";
 
 export const createCheque = async (req, res) => {
   try {

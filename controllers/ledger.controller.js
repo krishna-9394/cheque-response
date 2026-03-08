@@ -1,4 +1,4 @@
-import { clientPromise } from "../lib/mongo.js";
+import clientPromise from "../lib/mongo.js";
 
 export const createLedger = async (req, res) => {
   try {
