@@ -47,7 +47,7 @@ export const createCheque = async (req, res) => {
 
 export const getCheques = async (req, res) => {
   try {
-    const client = await clientPromise();
+    const client = await clientPromise;
     const db = client.db("billing");
 
     const records = await db.collection("cheque_responses")

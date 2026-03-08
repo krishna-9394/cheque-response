@@ -27,7 +27,7 @@ export const createLedger = async (req, res) => {
 
 export const getLedgers = async (req, res) => {
   try {
-    const client = await clientPromise();
+    const client = await clientPromise;
     const db = client.db("billing");
     const ledgers = await db.collection("ledgers")
       .find({})
