@@ -17,8 +17,4 @@ await connectDB();
 app.use("/api/ledgers", ledgerRoutes);
 app.use("/api/cheques", chequeRoutes);
 
-const PORT = process.env.PORT || 5000;
-
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+export default app;
